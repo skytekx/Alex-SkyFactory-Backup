@@ -1,0 +1,243 @@
+2020-12-04 18:00:18.709516|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.2 (2020-11-18 11:37:32)
+2020-12-04 18:00:18.709641|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 Binary: 64bit
+2020-12-04 18:00:18.709658|INFO    |ServerLibPriv |   |Using hardware aes
+2020-12-04 18:00:18.710093|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-12-04 18:00:18.710109|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-12-04 18:00:18.710247|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-12-04 18:00:18.746298|INFO    |ServerLibPriv |   |updated server query admin password
+2020-12-04 18:00:18.756488|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-12-04 18:00:18.756624|INFO    |Accounting    |   |Licensing Information
+2020-12-04 18:00:18.756643|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-12-04 18:00:18.756654|INFO    |Accounting    |   |type              : No License
+2020-12-04 18:00:18.756667|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2020-12-04 18:00:18.756674|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2020-12-04 18:00:18.756681|INFO    |Accounting    |   |max virtualservers: 1
+2020-12-04 18:00:18.756687|INFO    |Accounting    |   |max slots         : 32
+2020-12-04 18:00:19.486047|INFO    |              |   |Puzzle precompute time: 708
+2020-12-04 18:00:19.486591|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2020-12-04 18:00:19.488032|INFO    |Query         |   |Using a query thread pool size of 2
+2020-12-04 18:00:19.544167|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2020-12-04 18:00:19.544321|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2020-12-04 18:00:19.544375|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2020-12-04 18:00:19.544416|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2020-12-05 17:53:33.696791|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-06 17:53:33.775795|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-07 17:53:33.825869|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-08 17:53:33.916064|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-09 17:53:33.984544|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-10 17:53:34.077231|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-11 17:53:34.136596|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-12 17:53:34.221427|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-13 17:53:34.289954|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-14 17:53:34.381053|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-15 17:53:34.466965|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-16 17:53:34.567747|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-17 17:53:34.631039|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-18 17:53:34.722654|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-19 17:53:34.768357|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-20 17:53:34.889054|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-21 17:53:34.938587|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-22 17:53:35.084837|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-23 17:53:35.111614|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-24 17:53:35.175334|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-25 17:53:35.228516|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-26 17:53:35.304860|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-27 17:53:35.367519|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-28 17:53:35.430365|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-29 17:53:35.801749|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-30 17:53:35.693197|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-12-31 17:53:35.664931|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2020-12-31 20:53:35.721872|INFO    |ServerLibPriv |   |failed to download revocation list - count: 2
+2020-12-31 23:53:35.785390|INFO    |ServerLibPriv |   |failed to download revocation list - count: 3
+2021-01-01 00:00:18.753762|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-01-01 00:00:19.008806|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-01-01 02:53:35.837650|INFO    |ServerLibPriv |   |failed to download revocation list - count: 4
+2021-01-01 05:53:35.890197|INFO    |ServerLibPriv |   |failed to download revocation list - count: 5
+2021-01-01 08:53:35.978092|INFO    |ServerLibPriv |   |failed to download revocation list - count: 6
+2021-01-01 11:53:36.035416|INFO    |ServerLibPriv |   |failed to download revocation list - count: 7
+2021-01-01 14:53:36.093927|INFO    |ServerLibPriv |   |failed to download revocation list - count: 8
+2021-01-01 17:53:36.202146|INFO    |ServerLibPriv |   |failed to download revocation list - count: 9
+2021-01-01 20:53:36.264521|INFO    |ServerLibPriv |   |failed to download revocation list - count: 10
+2021-01-01 23:53:36.317825|INFO    |ServerLibPriv |   |failed to download revocation list - count: 11
+2021-01-02 02:53:36.378124|INFO    |ServerLibPriv |   |failed to download revocation list - count: 12
+2021-01-02 05:53:36.436188|INFO    |ServerLibPriv |   |failed to download revocation list - count: 13
+2021-01-02 08:53:36.507969|INFO    |ServerLibPriv |   |failed to download revocation list - count: 14
+2021-01-02 11:53:36.576905|INFO    |ServerLibPriv |   |failed to download revocation list - count: 15
+2021-01-02 14:53:36.635076|INFO    |ServerLibPriv |   |failed to download revocation list - count: 16
+2021-01-02 17:53:36.708078|INFO    |ServerLibPriv |   |failed to download revocation list - count: 17
+2021-01-02 20:53:36.778497|INFO    |ServerLibPriv |   |failed to download revocation list - count: 18
+2021-01-02 23:53:36.829885|INFO    |ServerLibPriv |   |failed to download revocation list - count: 19
+2021-01-03 02:53:36.896724|INFO    |ServerLibPriv |   |failed to download revocation list - count: 20
+2021-01-03 05:53:36.957263|INFO    |ServerLibPriv |   |failed to download revocation list - count: 21
+2021-01-03 08:53:37.017117|INFO    |ServerLibPriv |   |failed to download revocation list - count: 22
+2021-01-03 11:53:37.083069|INFO    |ServerLibPriv |   |failed to download revocation list - count: 23
+2021-01-03 14:53:37.159158|INFO    |ServerLibPriv |   |failed to download revocation list - count: 24
+2021-01-03 17:53:37.232249|INFO    |ServerLibPriv |   |failed to download revocation list - count: 25
+2021-01-03 20:53:37.301142|INFO    |ServerLibPriv |   |failed to download revocation list - count: 26
+2021-01-03 23:53:37.364067|INFO    |ServerLibPriv |   |failed to download revocation list - count: 27
+2021-01-04 02:53:37.423288|INFO    |ServerLibPriv |   |failed to download revocation list - count: 28
+2021-01-04 05:53:37.478910|INFO    |ServerLibPriv |   |failed to download revocation list - count: 29
+2021-01-04 08:53:37.548912|INFO    |ServerLibPriv |   |failed to download revocation list - count: 30
+2021-01-04 11:53:37.617870|INFO    |ServerLibPriv |   |failed to download revocation list - count: 31
+2021-01-04 14:53:37.681305|INFO    |ServerLibPriv |   |failed to download revocation list - count: 32
+2021-01-04 17:53:37.744282|INFO    |ServerLibPriv |   |failed to download revocation list - count: 33
+2021-01-04 20:53:37.820891|INFO    |ServerLibPriv |   |failed to download revocation list - count: 34
+2021-01-04 23:53:37.886862|INFO    |ServerLibPriv |   |failed to download revocation list - count: 35
+2021-01-05 02:53:37.948639|INFO    |ServerLibPriv |   |failed to download revocation list - count: 36
+2021-01-05 05:53:38.013839|INFO    |ServerLibPriv |   |failed to download revocation list - count: 37
+2021-01-05 08:53:38.069505|INFO    |ServerLibPriv |   |failed to download revocation list - count: 38
+2021-01-05 11:53:38.242450|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-06 11:53:38.312087|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-07 11:53:38.382277|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-08 11:53:38.471854|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-09 11:53:38.520628|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-10 11:53:38.603527|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-11 11:53:38.690445|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-12 11:53:38.778976|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-13 11:53:38.864699|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-14 11:53:38.918687|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-15 11:53:38.998552|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-16 11:53:39.066142|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-17 11:53:39.125386|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-18 11:53:39.208330|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-19 11:53:39.290563|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-20 11:53:39.388304|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-21 11:53:39.450446|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-22 11:53:39.727352|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-23 11:53:39.796317|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-24 11:53:39.878105|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-25 11:53:39.935495|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-26 11:53:40.014511|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-27 11:53:40.103051|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-28 11:53:40.181127|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-29 11:53:40.286702|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-30 11:53:40.348047|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-01-31 11:53:40.418927|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-01 00:00:18.753807|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-02-01 00:00:18.753899|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-02-01 11:53:40.502943|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-02 11:53:40.604846|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-03 11:53:40.696391|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-04 11:53:40.735791|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-05 11:53:40.812197|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-06 11:53:40.900219|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-07 11:53:40.970836|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-08 11:53:41.025727|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-09 11:53:41.106168|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-10 11:53:41.178255|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-11 11:53:41.229207|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-12 11:53:41.323709|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-13 11:53:41.392122|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-14 11:53:41.465212|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-15 10:01:21.953184|INFO    |Query         |   |query from 367 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-15 11:53:41.539223|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-15 13:06:57.872087|INFO    |Query         |   |query from 368 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-15 19:06:13.828512|INFO    |Query         |   |query from 373 110.167.231.171:6664 attempted to login with account "ynwang" and failed!
+2021-02-15 20:45:42.347076|INFO    |Query         |   |query from 374 110.167.231.171:6664 attempted to login with account "ynwang" and failed!
+2021-02-15 22:21:26.256064|INFO    |Query         |   |query from 375 110.167.231.171:6664 attempted to login with account "jira" and failed!
+2021-02-15 23:58:37.492958|INFO    |Query         |   |query from 376 110.167.231.171:6664 attempted to login with account "jira" and failed!
+2021-02-16 01:57:41.968370|INFO    |Query         |   |query from 377 110.167.231.171:6664 attempted to login with account "wjj" and failed!
+2021-02-16 04:22:55.468103|INFO    |Query         |   |query from 378 110.167.231.171:6664 attempted to login with account "wjj" and failed!
+2021-02-16 07:13:34.247624|INFO    |Query         |   |query from 379 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-16 10:10:27.715392|INFO    |Query         |   |query from 381 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-16 11:53:41.611805|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-16 13:02:49.836268|INFO    |Query         |   |query from 383 110.167.231.171:6664 attempted to login with account "kunhan" and failed!
+2021-02-16 16:34:09.434242|INFO    |Query         |   |query from 384 110.167.231.171:6664 attempted to login with account "kunhan" and failed!
+2021-02-16 19:09:26.619307|INFO    |Query         |   |query from 385 110.167.231.171:6664 attempted to login with account "USER" and failed!
+2021-02-16 20:55:18.195086|INFO    |Query         |   |query from 386 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-16 22:33:37.780867|INFO    |Query         |   |query from 387 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-17 00:16:25.533794|INFO    |Query         |   |query from 388 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-17 02:24:08.742640|INFO    |Query         |   |query from 389 110.167.231.171:6664 attempted to login with account "hadoop" and failed!
+2021-02-17 05:04:16.140449|INFO    |Query         |   |query from 390 110.167.231.171:6664 attempted to login with account "had00p" and failed!
+2021-02-17 08:10:53.381529|INFO    |Query         |   |query from 391 110.167.231.171:6664 attempted to login with account "had00p" and failed!
+2021-02-17 11:53:41.691292|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-17 14:31:15.782493|INFO    |Query         |   |query from 393 110.167.231.171:6664 attempted to login with account "WEBLOGIC" and failed!
+2021-02-17 17:49:50.472560|INFO    |Query         |   |query from 397 110.167.231.171:6664 attempted to login with account "WEBLOGIC" and failed!
+2021-02-17 19:48:06.139385|INFO    |Query         |   |query from 399 110.167.231.171:6664 attempted to login with account "weblogic" and failed!
+2021-02-17 21:30:46.746054|INFO    |Query         |   |query from 400 110.167.231.171:6664 attempted to login with account "NGINX" and failed!
+2021-02-17 23:12:44.114636|INFO    |Query         |   |query from 405 110.167.231.171:6664 attempted to login with account "nginx" and failed!
+2021-02-18 01:16:07.620306|INFO    |Query         |   |query from 406 110.167.231.171:6664 attempted to login with account "TEST" and failed!
+2021-02-18 04:04:41.739686|INFO    |Query         |   |query from 407 110.167.231.171:6664 attempted to login with account "test" and failed!
+2021-02-18 07:20:12.911522|INFO    |Query         |   |query from 408 110.167.231.171:6664 attempted to login with account "ORACLE" and failed!
+2021-02-18 11:00:02.873900|INFO    |Query         |   |query from 418 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-18 11:53:41.768916|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-18 13:59:11.671155|INFO    |Query         |   |query from 419 110.167.231.171:6664 attempted to login with account "GIT" and failed!
+2021-02-18 16:48:25.720277|INFO    |Query         |   |query from 421 110.167.231.171:6664 attempted to login with account "git" and failed!
+2021-02-18 19:01:17.435547|INFO    |Query         |   |query from 422 110.167.231.171:6664 attempted to login with account "UBUNTU" and failed!
+2021-02-18 20:51:45.310579|INFO    |Query         |   |query from 423 110.167.231.171:6664 attempted to login with account "ubuntu" and failed!
+2021-02-18 22:38:38.586544|INFO    |Query         |   |query from 425 110.167.231.171:6664 attempted to login with account "MYSQL" and failed!
+2021-02-19 00:37:34.281364|INFO    |Query         |   |query from 426 110.167.231.171:6664 attempted to login with account "mysql" and failed!
+2021-02-19 03:08:08.398533|INFO    |Query         |   |query from 427 110.167.231.171:6664 attempted to login with account "GUEST" and failed!
+2021-02-19 05:47:12.850430|INFO    |Query         |   |query from 428 110.167.231.171:6664 attempted to login with account "guest" and failed!
+2021-02-19 08:45:56.907314|INFO    |Query         |   |query from 429 110.167.231.171:6664 attempted to login with account "ADMIN" and failed!
+2021-02-19 11:33:52.774607|INFO    |Query         |   |query from 430 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-19 11:53:41.843116|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-19 14:19:08.734332|INFO    |Query         |   |query from 431 110.167.231.171:6664 attempted to login with account "HADOOP" and failed!
+2021-02-19 17:11:31.265365|INFO    |Query         |   |query from 432 110.167.231.171:6664 attempted to login with account "hadoop" and failed!
+2021-02-19 19:22:13.728057|INFO    |Query         |   |query from 434 110.167.231.171:6664 attempted to login with account "POSTGRES" and failed!
+2021-02-19 21:11:39.183942|INFO    |Query         |   |query from 435 110.167.231.171:6664 attempted to login with account "postgres" and failed!
+2021-02-19 23:01:18.344328|INFO    |Query         |   |query from 438 110.167.231.171:6664 attempted to login with account "GUEST" and failed!
+2021-02-20 01:10:27.198838|INFO    |Query         |   |query from 439 110.167.231.171:6664 attempted to login with account "guest" and failed!
+2021-02-20 03:48:53.187381|INFO    |Query         |   |query from 440 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-20 06:32:40.044308|INFO    |Query         |   |query from 441 110.167.231.171:6664 attempted to login with account "ROOT" and failed!
+2021-02-20 09:38:44.686117|INFO    |Query         |   |query from 442 110.167.231.171:6664 attempted to login with account "test" and failed!
+2021-02-20 11:53:41.898506|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-20 12:30:38.651481|INFO    |Query         |   |query from 443 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-20 15:33:24.323809|INFO    |Query         |   |query from 447 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-20 18:16:49.700440|INFO    |Query         |   |query from 448 110.167.231.171:6664 attempted to login with account "mysql" and failed!
+2021-02-20 20:19:24.585706|INFO    |Query         |   |query from 449 110.167.231.171:6664 attempted to login with account "hadoop" and failed!
+2021-02-20 22:12:06.211472|INFO    |Query         |   |query from 451 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-21 00:10:42.646498|INFO    |Query         |   |query from 452 110.167.231.171:6664 attempted to login with account "test" and failed!
+2021-02-21 02:32:05.669180|INFO    |Query         |   |query from 454 110.167.231.171:6664 attempted to login with account "mysql" and failed!
+2021-02-21 05:11:43.971339|INFO    |Query         |   |query from 455 110.167.231.171:6664 attempted to login with account "ubuntu" and failed!
+2021-02-21 08:05:59.070501|INFO    |Query         |   |query from 456 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-21 11:20:55.197422|INFO    |Query         |   |query from 457 110.167.231.171:6664 attempted to login with account "test" and failed!
+2021-02-21 11:53:41.987395|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-21 14:12:56.016541|INFO    |Query         |   |query from 459 110.167.231.171:6664 attempted to login with account "hadoop" and failed!
+2021-02-21 17:12:02.077567|INFO    |Query         |   |query from 460 110.167.231.171:6664 attempted to login with account "git" and failed!
+2021-02-21 19:24:21.165724|INFO    |Query         |   |query from 462 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-21 21:16:52.941756|INFO    |Query         |   |query from 463 110.167.231.171:6664 attempted to login with account "git" and failed!
+2021-02-21 23:09:52.989876|INFO    |Query         |   |query from 464 110.167.231.171:6664 attempted to login with account "ubuntu" and failed!
+2021-02-22 01:22:00.814824|INFO    |Query         |   |query from 465 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-22 04:18:19.915044|INFO    |Query         |   |query from 466 110.167.231.171:6664 attempted to login with account "root" and failed!
+2021-02-22 07:35:46.940120|INFO    |Query         |   |query from 469 110.167.231.171:42536 attempted to login with account "root" and failed!
+2021-02-22 10:43:18.533066|INFO    |Query         |   |query from 470 110.167.231.171:6664 attempted to login with account "TOMCAT" and failed!
+2021-02-22 11:53:42.038979|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-22 13:33:38.412090|INFO    |Query         |   |query from 471 110.167.231.171:6664 attempted to login with account "tomcat" and failed!
+2021-02-22 16:36:53.297590|INFO    |Query         |   |query from 474 110.167.231.171:6664 attempted to login with account "tomcat" and failed!
+2021-02-22 19:00:37.439264|INFO    |Query         |   |query from 476 110.167.231.171:6664 attempted to login with account "oracle" and failed!
+2021-02-22 20:57:12.974493|INFO    |Query         |   |query from 477 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-22 22:52:21.255649|INFO    |Query         |   |query from 478 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-23 01:04:41.648400|INFO    |Query         |   |query from 479 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-23 03:56:22.404301|INFO    |Query         |   |query from 480 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-23 07:17:11.401641|INFO    |Query         |   |query from 481 110.167.231.171:6664 attempted to login with account "wegener" and failed!
+2021-02-23 10:20:20.150488|INFO    |Query         |   |query from 482 110.167.231.171:6664 attempted to login with account "wegener" and failed!
+2021-02-23 11:53:42.114821|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-23 13:16:08.775950|INFO    |Query         |   |query from 484 110.167.231.171:6664 attempted to login with account "sgeadmin" and failed!
+2021-02-23 16:25:14.529549|INFO    |Query         |   |query from 487 110.167.231.171:6664 attempted to login with account "guest" and failed!
+2021-02-23 18:55:05.770216|INFO    |Query         |   |query from 488 110.167.231.171:6664 attempted to login with account "mysql" and failed!
+2021-02-23 20:53:17.664228|INFO    |Query         |   |query from 489 110.167.231.171:6664 attempted to login with account "sgeadmin" and failed!
+2021-02-23 22:49:50.471564|INFO    |Query         |   |query from 491 110.167.231.171:6664 attempted to login with account "xuchen" and failed!
+2021-02-24 01:05:45.847197|INFO    |Query         |   |query from 492 110.167.231.171:6664 attempted to login with account "gerencia" and failed!
+2021-02-24 03:46:27.249665|INFO    |Query         |   |query from 493 110.167.231.171:6664 attempted to login with account "admin" and failed!
+2021-02-24 06:47:48.325291|INFO    |Query         |   |query from 494 110.167.231.171:6664 attempted to login with account "hadoop" and failed!
+2021-02-24 10:05:27.843104|INFO    |Query         |   |query from 495 110.167.231.171:6664 attempted to login with account "test" and failed!
+2021-02-24 11:53:42.187611|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-24 12:56:36.930418|INFO    |Query         |   |query from 496 110.167.231.171:6664 attempted to login with account "gerencia" and failed!
+2021-02-24 16:08:04.399395|INFO    |Query         |   |query from 508 110.167.231.171:6664 attempted to login with account "xuchen" and failed!
+2021-02-24 18:48:15.650641|INFO    |Query         |   |query from 510 110.167.231.171:6664 attempted to login with account "rossbolt" and failed!
+2021-02-24 20:49:47.380930|INFO    |Query         |   |query from 515 110.167.231.171:6664 attempted to login with account "rossbolt" and failed!
+2021-02-24 22:49:54.623645|INFO    |Query         |   |query from 516 110.167.231.171:6664 attempted to login with account "bwadmin" and failed!
+2021-02-25 01:02:25.331182|INFO    |Query         |   |query from 517 110.167.231.171:6664 attempted to login with account "bwadmin" and failed!
+2021-02-25 11:53:42.246998|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-26 11:53:42.330335|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-27 11:53:42.393656|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-28 11:53:42.449685|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-01 00:00:18.753829|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-03-01 00:00:18.753937|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-03-01 11:53:42.528087|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-02 11:53:42.579736|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-03 11:53:42.710622|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-04 11:53:42.744491|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-05 11:53:42.815661|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-03-05 21:00:43.932403|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

@@ -1,0 +1,550 @@
+2020-12-04 18:00:19.543993|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-12-04 18:02:35.971042|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:50) was added by 'serveradmin'(id:1) to channel '[cspacer1]___'(id:2)
+2020-12-04 18:02:35.971179|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer1]___'(id:2)
+2020-12-04 18:02:35.971274|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer1]___'(id:2)
+2020-12-04 18:02:36.071382|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer2]Admin Channel'(id:3)
+2020-12-04 18:02:36.071518|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer2]Admin Channel'(id:3)
+2020-12-04 18:02:36.071614|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer2]Admin Channel'(id:3)
+2020-12-04 18:02:36.171731|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer3]___'(id:4)
+2020-12-04 18:02:36.171863|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer3]___'(id:4)
+2020-12-04 18:02:36.171993|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer3]___'(id:4)
+2020-12-04 18:02:36.271290|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Flottsch'(id:5)
+2020-12-04 18:02:36.271406|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Flottsch'(id:5)
+2020-12-04 18:02:36.271499|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Flottsch'(id:5)
+2020-12-04 18:02:36.364529|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Sebibi'(id:6)
+2020-12-04 18:02:36.364654|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Sebibi'(id:6)
+2020-12-04 18:02:36.364745|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Sebibi'(id:6)
+2020-12-04 18:02:36.462339|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Skillfurz'(id:7)
+2020-12-04 18:02:36.462457|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Skillfurz'(id:7)
+2020-12-04 18:02:36.462548|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Skillfurz'(id:7)
+2020-12-04 18:02:36.556803|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Christian'(id:8)
+2020-12-04 18:02:36.556936|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Christian'(id:8)
+2020-12-04 18:02:36.557026|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Christian'(id:8)
+2020-12-04 18:02:36.667273|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Alex'(id:9)
+2020-12-04 18:02:36.667431|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:100) was added by 'serveradmin'(id:1) to channel '● Alex'(id:9)
+2020-12-04 18:02:36.667534|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '● Alex'(id:9)
+2020-12-04 18:02:36.667638|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Alex'(id:9)
+2020-12-04 18:02:36.775584|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer4]___'(id:10)
+2020-12-04 18:02:36.775723|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer4]___'(id:10)
+2020-12-04 18:02:36.775820|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer4]___'(id:10)
+2020-12-04 18:02:36.875903|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer5]Drehtür'(id:11)
+2020-12-04 18:02:36.876022|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer5]Drehtür'(id:11)
+2020-12-04 18:02:36.876134|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer5]Drehtür'(id:11)
+2020-12-04 18:02:36.987173|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer6]___'(id:12)
+2020-12-04 18:02:36.987344|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer6]___'(id:12)
+2020-12-04 18:02:36.987443|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer6]___'(id:12)
+2020-12-04 18:02:37.108074|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer]─▄▀▀▀▄─▄▀▀▀▄─────▄▀▀▀▄──▄█─'(id:13)
+2020-12-04 18:02:37.108195|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]─▄▀▀▀▄─▄▀▀▀▄─────▄▀▀▀▄──▄█─'(id:13)
+2020-12-04 18:02:37.108305|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]─▄▀▀▀▄─▄▀▀▀▄─────▄▀▀▀▄──▄█─'(id:13)
+2020-12-04 18:02:37.214938|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer]────▄▀───▄▄█──▀─────▄▀─█───█─'(id:14)
+2020-12-04 18:02:37.215243|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]────▄▀───▄▄█──▀─────▄▀─█───█─'(id:14)
+2020-12-04 18:02:37.215484|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]────▄▀───▄▄█──▀─────▄▀─█───█─'(id:14)
+2020-12-04 18:02:37.314071|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer]──▄▀───────█──────▄▀───█───█─'(id:15)
+2020-12-04 18:02:37.314198|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]──▄▀───────█──────▄▀───█───█─'(id:15)
+2020-12-04 18:02:37.314290|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]──▄▀───────█──────▄▀───█───█─'(id:15)
+2020-12-04 18:02:37.414625|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer]─█▄▄▄▄─▀▄▄▄▀──▀──█▄▄▄▄─█▄▄▄█─'(id:16)
+2020-12-04 18:02:37.414782|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]─█▄▄▄▄─▀▄▄▄▀──▀──█▄▄▄▄─█▄▄▄█─'(id:16)
+2020-12-04 18:02:37.414879|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer]─█▄▄▄▄─▀▄▄▄▀──▀──█▄▄▄▄─█▄▄▄█─'(id:16)
+2020-12-04 18:02:37.513076|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer11]___'(id:17)
+2020-12-04 18:02:37.513225|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer11]___'(id:17)
+2020-12-04 18:02:37.513342|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer11]___'(id:17)
+2020-12-04 18:02:37.608398|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer12]Talk'(id:18)
+2020-12-04 18:02:37.608592|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer12]Talk'(id:18)
+2020-12-04 18:02:37.608728|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer12]Talk'(id:18)
+2020-12-04 18:02:37.707701|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer13]___'(id:19)
+2020-12-04 18:02:37.707820|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer13]___'(id:19)
+2020-12-04 18:02:37.707925|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer13]___'(id:19)
+2020-12-04 18:02:37.809211|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Talk 1'(id:20)
+2020-12-04 18:02:37.809348|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Talk 1'(id:20)
+2020-12-04 18:02:37.905122|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Talk 2'(id:21)
+2020-12-04 18:02:37.905250|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Talk 2'(id:21)
+2020-12-04 18:02:38.011875|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Talk 3'(id:22)
+2020-12-04 18:02:38.012004|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Talk 3'(id:22)
+2020-12-04 18:02:38.110850|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer14]___'(id:23)
+2020-12-04 18:02:38.111001|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer14]___'(id:23)
+2020-12-04 18:02:38.111101|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer14]___'(id:23)
+2020-12-04 18:02:38.206046|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer15]Games'(id:24)
+2020-12-04 18:02:38.206174|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer15]Games'(id:24)
+2020-12-04 18:02:38.206313|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer15]Games'(id:24)
+2020-12-04 18:02:38.298229|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer16]___'(id:25)
+2020-12-04 18:02:38.298357|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer16]___'(id:25)
+2020-12-04 18:02:38.298473|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer16]___'(id:25)
+2020-12-04 18:02:38.395573|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● GTA'(id:26)
+2020-12-04 18:02:38.395748|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● GTA'(id:26)
+2020-12-04 18:02:38.505136|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● CS:GO'(id:27)
+2020-12-04 18:02:38.505252|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● CS:GO'(id:27)
+2020-12-04 18:02:38.596499|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● League of Legends'(id:28)
+2020-12-04 18:02:38.596637|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● League of Legends'(id:28)
+2020-12-04 18:02:38.710900|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Autofohrn is gay'(id:29)
+2020-12-04 18:02:38.711033|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Autofohrn is gay'(id:29)
+2020-12-04 18:02:38.826600|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Minecraft'(id:30)
+2020-12-04 18:02:38.826770|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Minecraft'(id:30)
+2020-12-04 18:02:38.919092|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Regenbogen sex mit Ziegen'(id:31)
+2020-12-04 18:02:38.919289|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● Regenbogen sex mit Ziegen'(id:31)
+2020-12-04 18:02:39.021473|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer17]___'(id:32)
+2020-12-04 18:02:39.021593|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer17]___'(id:32)
+2020-12-04 18:02:39.021706|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer17]___'(id:32)
+2020-12-04 18:02:39.120799|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer18][A]way[F]rom[K]eyboard'(id:33)
+2020-12-04 18:02:39.120911|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer18][A]way[F]rom[K]eyboard'(id:33)
+2020-12-04 18:02:39.121008|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer18][A]way[F]rom[K]eyboard'(id:33)
+2020-12-04 18:02:39.219403|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer19]___'(id:34)
+2020-12-04 18:02:39.219536|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer19]___'(id:34)
+2020-12-04 18:02:39.219639|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer19]___'(id:34)
+2020-12-04 18:02:39.314321|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● kurz weg'(id:35)
+2020-12-04 18:02:39.314488|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● kurz weg'(id:35)
+2020-12-04 18:02:39.412845|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● long weg'(id:36)
+2020-12-04 18:02:39.412985|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● long weg'(id:36)
+2020-12-04 18:02:39.512959|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● neger obseiln'(id:37)
+2020-12-04 18:02:39.513123|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● neger obseiln'(id:37)
+2020-12-04 18:02:39.606183|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● fappen'(id:38)
+2020-12-04 18:02:39.606300|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● fappen'(id:38)
+2020-12-04 18:02:39.706744|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● dumme menschen schlogn'(id:39)
+2020-12-04 18:02:39.706865|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'serveradmin'(id:1) to channel '● dumme menschen schlogn'(id:39)
+2020-12-04 18:02:39.800455|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer20]___'(id:40)
+2020-12-04 18:02:39.800575|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer20]___'(id:40)
+2020-12-04 18:02:39.800672|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer20]___'(id:40)
+2020-12-04 18:02:39.901656|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer21]Spezialchannel'(id:41)
+2020-12-04 18:02:39.901820|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer21]Spezialchannel'(id:41)
+2020-12-04 18:02:39.901982|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer21]Spezialchannel'(id:41)
+2020-12-04 18:02:40.009814|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '[cspacer22]___'(id:42)
+2020-12-04 18:02:40.009986|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer22]___'(id:42)
+2020-12-04 18:02:40.010127|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to channel '[cspacer22]___'(id:42)
+2020-12-04 18:02:40.100287|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Kuschelecke'(id:43)
+2020-12-04 18:02:40.100436|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Kuschelecke'(id:43)
+2020-12-04 18:02:40.100535|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:75) was added by 'serveradmin'(id:1) to channel '● Kuschelecke'(id:43)
+2020-12-04 18:44:28.620156|INFO    |VirtualServer |1  |client 'Christian'(id:4) was added to servergroup 'Server Admin'(id:6) by client 'Alex'(id:3)
+2020-12-04 18:44:52.064935|INFO    |VirtualServer |1  |permission 'b_serverinstance_help_view'(id:1) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:53.235554|INFO    |VirtualServer |1  |permission 'b_serverinstance_info_view'(id:2) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:54.028673|INFO    |VirtualServer |1  |permission 'b_serverinstance_virtualserver_list'(id:3) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:54.655327|INFO    |VirtualServer |1  |permission 'b_serverinstance_binding_list'(id:4) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:55.165474|INFO    |VirtualServer |1  |permission 'b_serverinstance_permission_list'(id:5) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:55.784285|INFO    |VirtualServer |1  |permission 'b_serverinstance_permission_find'(id:6) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:57.427942|INFO    |VirtualServer |1  |permission 'b_virtualserver_create'(id:7) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:58.005629|INFO    |VirtualServer |1  |permission 'b_virtualserver_delete'(id:8) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:58.480107|INFO    |VirtualServer |1  |permission 'b_virtualserver_start_any'(id:9) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:58.941282|INFO    |VirtualServer |1  |permission 'b_virtualserver_stop_any'(id:10) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:59.404149|INFO    |VirtualServer |1  |permission 'b_virtualserver_change_machine_id'(id:11) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:44:59.881055|INFO    |VirtualServer |1  |permission 'b_virtualserver_change_template'(id:12) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:01.578949|INFO    |VirtualServer |1  |permission 'b_serverquery_login'(id:13) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:02.086176|INFO    |VirtualServer |1  |permission 'b_serverinstance_textmessage_send'(id:17) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:02.536259|INFO    |VirtualServer |1  |permission 'b_serverinstance_log_view'(id:18) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:03.029534|INFO    |VirtualServer |1  |permission 'b_serverinstance_log_add'(id:19) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:03.521258|INFO    |VirtualServer |1  |permission 'b_serverinstance_stop'(id:20) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:04.996559|INFO    |VirtualServer |1  |permission 'b_serverinstance_modify_settings'(id:21) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:05.511062|INFO    |VirtualServer |1  |permission 'b_serverinstance_modify_querygroup'(id:22) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:05.972441|INFO    |VirtualServer |1  |permission 'b_serverinstance_modify_templates'(id:23) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:07.606259|INFO    |VirtualServer |1  |permission 'b_virtualserver_select'(id:24) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:08.106146|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:08.527719|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:08.998361|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_list'(id:27) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:22.277041|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_search'(id:28) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:23.152757|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:23.686312|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:24.346193|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dblist'(id:31) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:25.463515|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbsearch'(id:32) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:25.932573|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:26.383756|INFO    |VirtualServer |1  |permission 'b_virtualserver_permission_find'(id:34) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:45:28.384792|INFO    |VirtualServer |1  |permission 'b_virtualserver_custom_search'(id:35) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:01.137282|INFO    |VirtualServer |1  |permission 'b_virtualserver_start'(id:36) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:01.804271|INFO    |VirtualServer |1  |permission 'b_virtualserver_stop'(id:37) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:02.368466|INFO    |VirtualServer |1  |permission 'b_virtualserver_token_list'(id:38) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:02.876379|INFO    |VirtualServer |1  |permission 'b_virtualserver_token_add'(id:39) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:03.309256|INFO    |VirtualServer |1  |permission 'b_virtualserver_token_use'(id:40) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:03.781303|INFO    |VirtualServer |1  |permission 'b_virtualserver_token_delete'(id:41) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:04.249941|INFO    |VirtualServer |1  |permission 'b_virtualserver_apikey_add'(id:42) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:04.733824|INFO    |VirtualServer |1  |permission 'b_virtualserver_apikey_manage'(id:43) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:05.227676|INFO    |VirtualServer |1  |permission 'b_virtualserver_log_view'(id:44) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:06.827248|INFO    |VirtualServer |1  |permission 'b_virtualserver_log_add'(id:45) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:07.377065|INFO    |VirtualServer |1  |permission 'b_virtualserver_join_ignore_password'(id:46) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:07.815898|INFO    |VirtualServer |1  |permission 'b_virtualserver_notify_register'(id:47) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:08.239483|INFO    |VirtualServer |1  |permission 'b_virtualserver_notify_unregister'(id:48) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:08.708812|INFO    |VirtualServer |1  |permission 'b_virtualserver_snapshot_create'(id:49) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:09.175580|INFO    |VirtualServer |1  |permission 'b_virtualserver_snapshot_deploy'(id:50) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:09.608253|INFO    |VirtualServer |1  |permission 'b_virtualserver_permission_reset'(id:51) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:10.590776|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_name'(id:52) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:11.269102|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_welcomemessage'(id:53) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:11.793733|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_maxclients'(id:54) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:12.253907|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_reserved_slots'(id:55) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:12.724173|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_password'(id:56) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:13.158802|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_default_servergroup'(id:57) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:13.600284|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_default_channelgroup'(id:58) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:14.029284|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_default_channeladmingroup'(id:59) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:14.476512|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_channel_forced_silence'(id:60) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:15.227532|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_complain'(id:61) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:16.423386|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_antiflood'(id:62) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:16.830861|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_ft_settings'(id:63) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:17.455089|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_ft_quotas'(id:64) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:17.868932|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_hostmessage'(id:65) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:18.283176|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_hostbanner'(id:66) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:18.935140|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_hostbutton'(id:67) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:19.348170|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_port'(id:68) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:20.254231|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_port'(id:68) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:23.753296|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_port'(id:68) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:25.199270|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_autostart'(id:69) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:28.083908|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_needed_identity_security_level'(id:70) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:28.618360|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_priority_speaker_dimm_modificator'(id:71) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:29.029248|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_log_settings'(id:72) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:29.453168|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_min_client_version'(id:73) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:29.947935|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:30.379528|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_weblist'(id:75) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:30.823577|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_codec_encryption_mode'(id:76) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:31.260234|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_temporary_passwords'(id:77) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:31.683761|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_temporary_passwords_own'(id:78) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:32.165284|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_channel_temp_delete_delay_default'(id:79) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:33.823729|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_nickname'(id:80) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:34.276602|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_integrations'(id:81) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:35.128216|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:35.998637|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:36.475461|INFO    |VirtualServer |1  |permission 'b_channel_create_permanent'(id:89) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:36.884564|INFO    |VirtualServer |1  |permission 'b_channel_create_semi_permanent'(id:90) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:37.336036|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:37.830578|INFO    |VirtualServer |1  |permission 'b_channel_create_with_topic'(id:92) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:38.288883|INFO    |VirtualServer |1  |permission 'b_channel_create_with_description'(id:93) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:40.863986|INFO    |VirtualServer |1  |permission 'b_channel_create_with_password'(id:94) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:55.548180|INFO    |VirtualServer |1  |permission 'b_channel_create_with_maxclients'(id:100) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:56.326970|INFO    |VirtualServer |1  |permission 'b_channel_create_with_maxfamilyclients'(id:101) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:56.768163|INFO    |VirtualServer |1  |permission 'b_channel_create_with_sortorder'(id:102) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:57.963909|INFO    |VirtualServer |1  |permission 'b_channel_create_with_default'(id:103) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:58.416194|INFO    |VirtualServer |1  |permission 'b_channel_create_with_needed_talk_power'(id:104) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:49:58.838434|INFO    |VirtualServer |1  |permission 'b_channel_create_modify_with_force_password'(id:105) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:02.164129|INFO    |VirtualServer |1  |permission 'i_channel_create_modify_with_temp_delete_delay'(id:106) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:10.607883|INFO    |VirtualServer |1  |permission 'b_channel_modify_parent'(id:107) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:11.277266|INFO    |VirtualServer |1  |permission 'b_channel_modify_make_default'(id:108) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:11.703134|INFO    |VirtualServer |1  |permission 'b_channel_modify_make_permanent'(id:109) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:12.129048|INFO    |VirtualServer |1  |permission 'b_channel_modify_make_semi_permanent'(id:110) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:12.595445|INFO    |VirtualServer |1  |permission 'b_channel_modify_make_temporary'(id:111) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:13.048575|INFO    |VirtualServer |1  |permission 'b_channel_modify_name'(id:112) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:13.481095|INFO    |VirtualServer |1  |permission 'b_channel_modify_topic'(id:113) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:13.934531|INFO    |VirtualServer |1  |permission 'b_channel_modify_description'(id:114) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:15.443407|INFO    |VirtualServer |1  |permission 'b_channel_modify_password'(id:115) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:15.885811|INFO    |VirtualServer |1  |permission 'b_channel_modify_codec'(id:117) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:16.660457|INFO    |VirtualServer |1  |permission 'b_channel_modify_codec_quality'(id:118) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:17.123223|INFO    |VirtualServer |1  |permission 'b_channel_modify_codec_latency_factor'(id:119) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:17.552799|INFO    |VirtualServer |1  |permission 'b_channel_modify_maxclients'(id:120) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:17.990629|INFO    |VirtualServer |1  |permission 'b_channel_modify_maxfamilyclients'(id:121) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:18.443872|INFO    |VirtualServer |1  |permission 'b_channel_modify_sortorder'(id:122) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:18.927706|INFO    |VirtualServer |1  |permission 'b_channel_modify_needed_talk_power'(id:123) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:20.385477|INFO    |VirtualServer |1  |permission 'i_channel_modify_power'(id:124) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:21.848208|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:22.572774|INFO    |VirtualServer |1  |permission 'b_channel_modify_make_codec_encrypted'(id:126) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:23.379301|INFO    |VirtualServer |1  |permission 'b_channel_modify_temp_delete_delay'(id:127) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:25.808023|INFO    |VirtualServer |1  |permission 'b_channel_delete_permanent'(id:128) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:26.379540|INFO    |VirtualServer |1  |permission 'b_channel_delete_semi_permanent'(id:129) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:26.863275|INFO    |VirtualServer |1  |permission 'b_channel_delete_temporary'(id:130) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:27.359668|INFO    |VirtualServer |1  |permission 'b_channel_delete_flag_force'(id:131) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:28.381100|INFO    |VirtualServer |1  |permission 'i_channel_delete_power'(id:132) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:29.438415|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:30.990092|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:31.684307|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:32.129132|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:32.608214|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:33.275770|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:33.841125|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_password'(id:137) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:34.282946|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_maxclients'(id:138) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:35.318575|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:36.227351|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:37.260177|INFO    |VirtualServer |1  |permission 'i_channel_subscribe_power'(id:141) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:38.042878|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:38.805370|INFO    |VirtualServer |1  |permission 'i_channel_description_view_power'(id:143) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:39.801013|INFO    |VirtualServer |1  |permission 'i_channel_needed_description_view_power'(id:144) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:41.292773|INFO    |VirtualServer |1  |permission 'i_channel_min_depth'(id:82) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:41.968915|INFO    |VirtualServer |1  |permission 'i_channel_max_depth'(id:83) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:42.343204|INFO    |VirtualServer |1  |permission 'b_channel_group_inheritance_end'(id:84) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:43.779897|INFO    |VirtualServer |1  |permission 'i_channel_permission_modify_power'(id:85) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:44.874470|INFO    |VirtualServer |1  |permission 'i_channel_needed_permission_modify_power'(id:86) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:47.538261|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_list'(id:153) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:48.180229|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_permission_list'(id:154) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:48.754233|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_client_list'(id:155) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:49.255078|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_list'(id:156) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:49.783551|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_permission_list'(id:157) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:50.278500|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_client_list'(id:158) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:50.805600|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_permission_list'(id:159) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:51.393930|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_permission_list'(id:160) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:52.609415|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelclient_permission_list'(id:161) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:55.010189|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_create'(id:162) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:55.734761|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_create'(id:163) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:58.448668|INFO    |VirtualServer |1  |permission 'i_group_modify_power'(id:164) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:50:59.482584|INFO    |VirtualServer |1  |permission 'i_group_needed_modify_power'(id:165) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:00.240036|INFO    |VirtualServer |1  |permission 'i_group_member_add_power'(id:166) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:00.875862|INFO    |VirtualServer |1  |permission 'i_group_needed_member_add_power'(id:167) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:01.648186|INFO    |VirtualServer |1  |permission 'i_group_member_remove_power'(id:168) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:02.418130|INFO    |VirtualServer |1  |permission 'i_group_needed_member_remove_power'(id:169) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:03.312447|INFO    |VirtualServer |1  |permission 'i_permission_modify_power'(id:170) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:03.819690|INFO    |VirtualServer |1  |permission 'b_permission_modify_power_ignore'(id:171) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:05.675236|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_delete'(id:172) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:06.652854|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_delete'(id:173) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:11.295546|INFO    |VirtualServer |1  |permission 'i_max_icon_filesize'(id:146) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:12.719933|INFO    |VirtualServer |1  |permission 'b_icon_manage'(id:147) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:13.503108|INFO    |VirtualServer |1  |permission 'b_group_is_permanent'(id:148) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:14.397854|INFO    |VirtualServer |1  |permission 'i_group_auto_update_type'(id:149) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:15.428687|INFO    |VirtualServer |1  |permission 'i_group_auto_update_max_value'(id:150) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:16.742648|INFO    |VirtualServer |1  |permission 'i_group_sort_id'(id:151) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:17.653146|INFO    |VirtualServer |1  |permission 'i_group_show_name_in_tree'(id:152) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:19.428340|INFO    |VirtualServer |1  |permission 'b_client_info_view'(id:191) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:21.178339|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_view'(id:192) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:21.718286|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_own'(id:193) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:22.137704|INFO    |VirtualServer |1  |permission 'b_client_remoteaddress_view'(id:194) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:23.007432|INFO    |VirtualServer |1  |permission 'i_client_serverquery_view_power'(id:195) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:23.728992|INFO    |VirtualServer |1  |permission 'i_client_needed_serverquery_view_power'(id:196) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:24.628325|INFO    |VirtualServer |1  |permission 'b_client_custom_info_view'(id:197) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:26.473554|INFO    |VirtualServer |1  |permission 'i_client_kick_from_server_power'(id:198) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:27.128706|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_server_power'(id:199) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:27.761426|INFO    |VirtualServer |1  |permission 'i_client_kick_from_channel_power'(id:200) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:28.291538|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_channel_power'(id:201) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:28.862549|INFO    |VirtualServer |1  |permission 'i_client_ban_power'(id:202) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:30.063449|INFO    |VirtualServer |1  |permission 'i_client_needed_ban_power'(id:203) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:32.280195|INFO    |VirtualServer |1  |permission 'i_client_move_power'(id:204) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:34.015040|INFO    |VirtualServer |1  |permission 'i_client_needed_move_power'(id:205) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:34.713257|INFO    |VirtualServer |1  |permission 'i_client_complain_power'(id:206) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:35.463250|INFO    |VirtualServer |1  |permission 'i_client_needed_complain_power'(id:207) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:36.077664|INFO    |VirtualServer |1  |permission 'b_client_complain_list'(id:208) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:36.876609|INFO    |VirtualServer |1  |permission 'b_client_complain_delete_own'(id:209) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:37.478422|INFO    |VirtualServer |1  |permission 'b_client_ban_list'(id:211) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:37.988170|INFO    |VirtualServer |1  |permission 'b_client_complain_delete'(id:210) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:38.884593|INFO    |VirtualServer |1  |permission 'b_client_ban_create'(id:212) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:39.653410|INFO    |VirtualServer |1  |permission 'b_client_ban_delete_own'(id:213) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:40.833123|INFO    |VirtualServer |1  |permission 'b_client_ban_delete'(id:214) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:42.727032|INFO    |VirtualServer |1  |permission 'i_client_ban_max_bantime'(id:215) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:45.229436|INFO    |VirtualServer |1  |permission 'i_client_private_textmessage_power'(id:216) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:47.373600|INFO    |VirtualServer |1  |permission 'i_client_needed_private_textmessage_power'(id:217) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:47.840319|INFO    |VirtualServer |1  |permission 'b_client_server_textmessage_send'(id:218) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:48.579397|INFO    |VirtualServer |1  |permission 'b_client_channel_textmessage_send'(id:219) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:49.129051|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:220) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:50.120037|INFO    |VirtualServer |1  |permission 'i_client_talk_power'(id:221) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:51.126379|INFO    |VirtualServer |1  |permission 'i_client_needed_talk_power'(id:222) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:51.957845|INFO    |VirtualServer |1  |permission 'i_client_poke_power'(id:223) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:52.627216|INFO    |VirtualServer |1  |permission 'i_client_needed_poke_power'(id:224) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:53.163167|INFO    |VirtualServer |1  |permission 'b_client_set_flag_talker'(id:225) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:54.289306|INFO    |VirtualServer |1  |permission 'i_client_whisper_power'(id:226) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:51:55.016413|INFO    |VirtualServer |1  |permission 'i_client_needed_whisper_power'(id:227) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:00.178244|INFO    |VirtualServer |1  |permission 'b_client_modify_description'(id:228) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:00.822308|INFO    |VirtualServer |1  |permission 'b_client_modify_own_description'(id:229) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:01.279275|INFO    |VirtualServer |1  |permission 'b_client_modify_dbproperties'(id:230) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:01.922605|INFO    |VirtualServer |1  |permission 'b_client_delete_dbproperties'(id:231) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:02.429556|INFO    |VirtualServer |1  |permission 'b_client_create_modify_serverquery_login'(id:232) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:03.429051|INFO    |VirtualServer |1  |permission 'i_client_permission_modify_power'(id:174) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:04.352865|INFO    |VirtualServer |1  |permission 'i_client_needed_permission_modify_power'(id:175) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:07.539930|INFO    |VirtualServer |1  |permission 'i_client_max_clones_uid'(id:176) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:08.262285|INFO    |VirtualServer |1  |permission 'i_client_max_idletime'(id:177) with values (value:0) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:08.851971|INFO    |VirtualServer |1  |permission 'i_client_max_avatar_filesize'(id:178) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:09.385890|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:10.541761|INFO    |VirtualServer |1  |permission 'i_client_max_channel_subscriptions'(id:179) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:10.994098|INFO    |VirtualServer |1  |permission 'b_client_skip_channelgroup_permissions'(id:181) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:11.667609|INFO    |VirtualServer |1  |permission 'b_client_force_push_to_talk'(id:182) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:12.101744|INFO    |VirtualServer |1  |permission 'b_client_ignore_bans'(id:183) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:12.622249|INFO    |VirtualServer |1  |permission 'b_client_ignore_antiflood'(id:184) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:14.302800|INFO    |VirtualServer |1  |permission 'b_client_use_reserved_slot'(id:185) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:14.985387|INFO    |VirtualServer |1  |permission 'b_client_use_channel_commander'(id:186) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:15.497642|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:187) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:16.089563|INFO    |VirtualServer |1  |permission 'b_client_avatar_delete_other'(id:188) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:16.672461|INFO    |VirtualServer |1  |permission 'b_client_ignore_sticky'(id:190) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:17.329764|INFO    |VirtualServer |1  |permission 'b_client_is_sticky'(id:189) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:20.297862|INFO    |VirtualServer |1  |permission 'b_ft_ignore_password'(id:233) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:21.025255|INFO    |VirtualServer |1  |permission 'b_ft_transfer_list'(id:234) with values (value:1) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:22.017776|INFO    |VirtualServer |1  |permission 'i_ft_file_upload_power'(id:235) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:22.867308|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_upload_power'(id:236) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:23.469472|INFO    |VirtualServer |1  |permission 'i_ft_file_download_power'(id:237) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:24.079384|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_download_power'(id:238) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:24.589483|INFO    |VirtualServer |1  |permission 'i_ft_file_delete_power'(id:239) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:25.112826|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_delete_power'(id:240) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:25.689520|INFO    |VirtualServer |1  |permission 'i_ft_file_rename_power'(id:241) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:26.330620|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:242) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:27.005178|INFO    |VirtualServer |1  |permission 'i_ft_file_browse_power'(id:243) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:27.805962|INFO    |VirtualServer |1  |permission 'i_ft_directory_create_power'(id:245) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:28.379339|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_browse_power'(id:244) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:29.003239|INFO    |VirtualServer |1  |permission 'i_ft_needed_directory_create_power'(id:246) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:29.606925|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_download_per_client'(id:247) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:52:30.155180|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_upload_per_client'(id:248) with values (value:100) was added by 'serveradmin'(id:1) to client (id:3)
+2020-12-04 18:56:21.633016|INFO    |VirtualServer |1  |permission 'b_client_force_push_to_talk'(id:182) was deleted by 'SchwulesAlpaka'(id:3) from client (id:3)
+2020-12-04 19:24:22.240727|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'SchwulesAlpaka'(id:3) for client (id:5) and channel '● Alex'(id:9)
+2020-12-04 21:43:18.240530|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2020-12-04 21:44:11.325877|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2020-12-04 21:44:49.386977|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2020-12-05 10:50:12.153911|INFO    |VirtualServer |1  |client 'NudesMaster'(id:5) was added to servergroup 'Server Admin'(id:6) by client 'SchwulesAlpaka'(id:3)
+2020-12-05 11:31:57.646882|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2020-12-05 11:39:20.372876|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2020-12-05 11:39:52.422736|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2020-12-05 12:04:47.787131|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2020-12-05 13:28:47.891680|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2020-12-05 13:31:21.837228|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-12-05 13:31:21.837302|INFO    |PktHandler    |1  |Dropping client 20 because of resend timeout
+2020-12-05 13:37:16.722833|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2020-12-05 17:05:59.547579|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2020-12-05 18:44:15.527965|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2020-12-06 10:25:22.764071|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-06 10:25:22.764134|INFO    |PktHandler    |1  |Dropping client 25 because of resend timeout
+2020-12-06 10:45:32.895861|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2020-12-11 07:33:26.849395|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-12-11 07:33:26.850034|INFO    |PktHandler    |1  |Dropping client 31 because of resend timeout
+2020-12-12 11:41:22.666445|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-12-12 11:41:22.666506|INFO    |PktHandler    |1  |Dropping client 39 because of resend timeout
+2020-12-12 11:43:43.789421|INFO    |PktHandler    |1  |Dropping client 40 because of ping timeout 19 0 0
+2020-12-13 18:59:47.563031|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2020-12-13 18:59:47.563129|INFO    |PktHandler    |1  |Dropping client 43 because of resend timeout
+2020-12-13 20:12:52.583608|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'SchwulesAlpaka1'(id:3) for client (id:5) and channel '● Alex'(id:9)
+2020-12-15 14:54:46.539275|INFO    |PktHandler    |1  |Dropping client 49 because of ping timeout 19 0 0
+2020-12-16 09:11:21.735829|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2020-12-16 09:11:21.735909|INFO    |PktHandler    |1  |Dropping client 50 because of resend timeout
+2020-12-16 12:45:13.959648|INFO    |PktHandler    |1  |Dropping client 51 because of ping timeout 19 0 0
+2020-12-16 13:06:53.062851|INFO    |PktHandler    |1  |Dropping client 52 because of ping timeout 19 0 0
+2020-12-17 00:30:31.192696|INFO    |PktHandler    |1  |Dropping client 53 because of ping timeout 19 0 0
+2020-12-17 10:39:13.940638|INFO    |PktHandler    |1  |Dropping client 54 because of ping timeout 19 0 0
+2020-12-17 11:29:01.635059|INFO    |PktHandler    |1  |Dropping client 55 because of ping timeout 19 0 0
+2020-12-24 18:45:35.435269|INFO    |PktHandler    |1  |Dropping client 79 because of ping timeout 19 0 0
+2020-12-24 22:30:36.604961|INFO    |PktHandler    |1  |Dropping client 80 because of ping timeout 19 0 0
+2020-12-26 01:39:31.844263|INFO    |PktHandler    |1  |Dropping client 83 because of ping timeout 19 0 0
+2020-12-26 13:34:20.301377|INFO    |PktHandler    |1  |Dropping client 84 because of ping timeout 19 0 0
+2020-12-26 14:51:54.735867|INFO    |PktHandler    |1  |Dropping client 88 because of ping timeout 19 0 0
+2020-12-26 16:28:11.032659|INFO    |PktHandler    |1  |Dropping client 89 because of ping timeout 19 0 0
+2020-12-26 18:22:07.672840|INFO    |PktHandler    |1  |Dropping client 91 because of ping timeout 19 0 0
+2020-12-26 21:26:19.021736|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2020-12-26 21:26:19.021801|INFO    |PktHandler    |1  |Dropping client 92 because of resend timeout
+2020-12-27 18:49:48.596627|INFO    |PktHandler    |1  |Dropping client 94 because of ping timeout 19 0 0
+2020-12-27 18:58:49.092447|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2020-12-27 18:58:49.092513|INFO    |PktHandler    |1  |Dropping client 96 because of resend timeout
+2020-12-27 19:02:47.740087|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'SchwulesAlpaka'(id:3) from client (id:3)
+2020-12-27 20:44:00.460075|INFO    |PktHandler    |1  |Dropping client 95 because of ping timeout 19 0 0
+2020-12-27 21:53:25.072327|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2020-12-27 21:53:25.072396|INFO    |PktHandler    |1  |Dropping client 97 because of resend timeout
+2020-12-28 04:56:57.703207|INFO    |PktHandler    |1  |Dropping client 98 because of ping timeout 19 0 0
+2020-12-28 12:53:42.617840|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:100) was added by 'SchwulesAlpaka'(id:3) to channel '● Alex'(id:9)
+2020-12-28 15:16:50.081491|INFO    |PktHandler    |1  |Dropping client 101 because of ping timeout 19 0 0
+2020-12-28 19:46:13.126477|INFO    |PktHandler    |1  |Dropping client 103 because of ping timeout 19 0 0
+2020-12-29 23:27:43.028776|INFO    |PktHandler    |1  |Dropping client 105 because of ping timeout 19 0 0
+2020-12-30 13:32:19.518370|INFO    |PktHandler    |1  |Dropping client 109 because of ping timeout 19 0 0
+2020-12-30 16:20:35.141188|INFO    |PktHandler    |1  |Dropping client 110 because of ping timeout 19 0 0
+2020-12-30 17:18:48.207818|INFO    |PktHandler    |1  |Dropping client 112 because of ping timeout 19 0 0
+2020-12-30 23:24:19.416294|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2020-12-30 23:24:19.416356|INFO    |PktHandler    |1  |Dropping client 108 because of resend timeout
+2020-12-31 02:28:55.175954|INFO    |PktHandler    |1  |Dropping client 115 because of ping timeout 19 0 0
+2020-12-31 14:33:32.516374|INFO    |PktHandler    |1  |Dropping client 118 because of ping timeout 19 0 0
+2020-12-31 16:24:15.009769|INFO    |PktHandler    |1  |Dropping client 119 because of ping timeout 19 0 0
+2020-12-31 22:58:22.760711|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-31 22:58:22.760780|INFO    |PktHandler    |1  |Dropping client 120 because of resend timeout
+2021-01-02 16:08:57.799488|INFO    |PktHandler    |1  |Dropping client 126 because of ping timeout 19 0 0
+2021-01-02 22:36:19.262692|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2021-01-02 22:36:19.262759|INFO    |PktHandler    |1  |Dropping client 127 because of resend timeout
+2021-01-02 22:44:24.365852|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2021-01-02 22:44:24.365917|INFO    |PktHandler    |1  |Dropping client 129 because of resend timeout
+2021-01-02 22:45:14.044549|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2021-01-02 22:45:14.044628|INFO    |PktHandler    |1  |Dropping client 130 because of resend timeout
+2021-01-02 22:50:24.902615|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2021-01-02 22:50:24.902687|INFO    |PktHandler    |1  |Dropping client 131 because of resend timeout
+2021-01-02 23:03:34.391271|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2021-01-02 23:03:34.391338|INFO    |PktHandler    |1  |Dropping client 132 because of resend timeout
+2021-01-02 23:05:21.958841|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2021-01-02 23:05:21.958909|INFO    |PktHandler    |1  |Dropping client 133 because of resend timeout
+2021-01-03 13:35:59.277978|INFO    |PktHandler    |1  |Dropping client 135 because of ping timeout 19 0 0
+2021-01-03 14:28:50.101795|INFO    |PktHandler    |1  |Dropping client 140 because of ping timeout 19 0 0
+2021-01-03 14:30:08.220256|INFO    |PktHandler    |1  |Dropping client 141 because of ping timeout 19 0 0
+2021-01-04 12:26:10.396772|INFO    |PktHandler    |1  |Dropping client 145 because of ping timeout 19 0 0
+2021-01-06 12:59:18.981171|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2021-01-06 12:59:18.981351|INFO    |PktHandler    |1  |Dropping client 152 because of resend timeout
+2021-01-06 13:17:38.229608|INFO    |PktHandler    |1  |Dropping client 153 because of ping timeout 19 0 0
+2021-01-06 18:41:50.876657|INFO    |PktHandler    |1  |Dropping client 157 because of ping timeout 19 0 0
+2021-01-07 00:22:20.922549|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2021-01-07 00:22:20.922611|INFO    |PktHandler    |1  |Dropping client 155 because of resend timeout
+2021-01-07 18:32:52.943545|INFO    |PktHandler    |1  |Dropping client 161 because of ping timeout 19 0 0
+2021-01-08 22:17:55.941362|INFO    |PktHandler    |1  |Dropping client 169 because of ping timeout 19 0 0
+2021-01-09 12:33:44.872666|INFO    |PktHandler    |1  |Dropping client 171 because of ping timeout 19 0 0
+2021-01-09 18:47:02.029039|INFO    |PktHandler    |1  |Dropping client 173 because of ping timeout 19 0 0
+2021-01-09 19:21:44.383375|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2021-01-09 19:21:44.383442|INFO    |PktHandler    |1  |Dropping client 175 because of resend timeout
+2021-01-09 19:23:22.129232|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2021-01-09 19:23:22.129309|INFO    |PktHandler    |1  |Dropping client 176 because of resend timeout
+2021-01-09 20:51:11.110749|INFO    |PktHandler    |1  |Dropping client 177 because of ping timeout 19 0 0
+2021-01-09 21:16:43.288131|INFO    |PktHandler    |1  |Dropping client 178 because of ping timeout 19 0 0
+2021-01-09 21:23:10.828553|INFO    |PktHandler    |1  |Dropping client 179 because of ping timeout 19 0 0
+2021-01-11 15:13:00.251829|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:101) was added by 'SchwulesAlpaka'(id:3) to channel '● Alex'(id:9)
+2021-01-12 16:26:37.472367|INFO    |VirtualServer |1  |servergroup 'Join+'(id:9) was added by 'SchwulesAlpaka'(id:3)
+2021-01-12 16:26:51.821812|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:26:52.542032|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:26:53.126463|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:27:01.586507|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_password'(id:137) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:27:02.328366|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_maxclients'(id:138) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:27:06.979302|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:150, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:27:31.496936|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:500, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:9)
+2021-01-12 16:27:44.541614|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) was deleted by 'SchwulesAlpaka'(id:3) from servergroup 'Join+'(id:9)
+2021-01-12 16:28:08.850807|INFO    |VirtualServer |1  |servergroup 'Join+'(id:10) was added by 'SchwulesAlpaka'(id:3)
+2021-01-12 16:28:12.335537|INFO    |VirtualServer |1  |servergroup 'Join+'(id:9) was deleted by 'SchwulesAlpaka'(id:3)
+2021-01-12 16:28:17.186321|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:17.967017|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:18.352428|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:18.836612|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_password'(id:137) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:19.405456|INFO    |VirtualServer |1  |permission 'b_channel_join_ignore_maxclients'(id:138) with values (value:1, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:21.359705|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:150, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Join+'(id:10)
+2021-01-12 16:28:25.666561|INFO    |VirtualServer |1  |client 'Jan'(id:8) was added to servergroup 'Join+'(id:10) by client 'SchwulesAlpaka'(id:3)
+2021-01-12 19:47:54.493909|INFO    |PktHandler    |1  |Dropping client 192 because of ping timeout 19 0 0
+2021-01-16 10:00:57.203008|INFO    |PktHandler    |1  |Dropping client 197 because of ping timeout 19 0 0
+2021-01-16 15:03:57.485397|INFO    |PktHandler    |1  |Dropping client 199 because of ping timeout 19 0 0
+2021-01-16 15:08:06.849563|INFO    |PktHandler    |1  |Dropping client 201 because of ping timeout 19 0 0
+2021-01-20 17:56:14.395688|INFO    |PktHandler    |1  |Dropping client 212 because of ping timeout 19 0 0
+2021-01-23 17:22:47.693032|INFO    |PktHandler    |1  |Dropping client 222 because of ping timeout 19 0 0
+2021-01-26 09:59:49.904701|INFO    |VirtualServer |1  |client 'Alem'(id:11) was added to servergroup 'Join+'(id:10) by client 'SchwulesAlpaka'(id:3)
+2021-01-26 09:59:52.619482|INFO    |VirtualServer |1  |client 'chriss'(id:12) was added to servergroup 'Join+'(id:10) by client 'SchwulesAlpaka'(id:3)
+2021-01-26 10:06:34.899328|INFO    |VirtualServer |1  |client 'chriss'(id:12) was added to servergroup 'Server Admin'(id:6) by client 'SchwulesAlpaka'(id:3)
+2021-01-26 10:07:09.936730|INFO    |VirtualServer |1  |servergroup 'Normal'(id:7) was renamed to 'Huansohn' by 'SchwulesAlpaka'(id:3)
+2021-01-26 10:07:25.169528|INFO    |VirtualServer |1  |permission 'i_channel_delete_power'(id:132) with values (value:60, negated:0, skipchannel:0) was added by 'SchwulesAlpaka'(id:3) to servergroup 'Huansohn'(id:7)
+2021-01-26 10:08:22.869804|INFO    |VirtualServer |1  |client 'Alem'(id:11) was added to servergroup 'Huansohn'(id:7) by client 'SchwulesAlpaka'(id:3)
+2021-01-26 11:38:03.061607|INFO    |PktHandler    |1  |Dropping client 229 because of ping timeout 19 0 0
+2021-01-26 14:34:18.586882|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2021-01-26 14:34:18.586965|INFO    |PktHandler    |1  |Dropping client 226 because of resend timeout
+2021-01-26 15:19:20.610091|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2021-01-26 15:19:20.610162|INFO    |PktHandler    |1  |Dropping client 233 because of resend timeout
+2021-01-26 15:23:01.450841|INFO    |PktHandler    |1  |Dropping client 234 because of ping timeout 19 0 0
+2021-01-27 00:30:35.173761|INFO    |PktHandler    |1  |Dropping client 237 because of ping timeout 19 0 0
+2021-01-27 17:39:20.735422|INFO    |PktHandler    |1  |Cleaning up connection because of 1 resends of COMMAND packet
+2021-01-27 17:39:20.735511|INFO    |PktHandler    |1  |Dropping client 241 because of resend timeout
+2021-01-27 17:39:20.735796|INFO    |PktHandler    |1  |Cleaning up connection because of 1 resends of COMMAND packet
+2021-01-27 17:39:20.735818|INFO    |PktHandler    |1  |Dropping client 240 because of resend timeout
+2021-01-31 16:51:13.331953|INFO    |PktHandler    |1  |Dropping client 253 because of ping timeout 19 0 0
+2021-01-31 16:52:17.103265|INFO    |VirtualServer |1  |client 'Raphi'(id:15) was added to servergroup 'Join+'(id:10) by client 'SchwulesAlpaka'(id:3)
+2021-01-31 16:54:44.632378|INFO    |PktHandler    |1  |Dropping client 254 because of ping timeout 19 0 0
+2021-01-31 18:06:16.782605|INFO    |PktHandler    |1  |Dropping client 252 because of ping timeout 19 0 0
+2021-02-06 00:26:47.533249|INFO    |PktHandler    |1  |Dropping client 285 because of ping timeout 19 0 0
+2021-02-11 14:05:02.417440|INFO    |PktHandler    |1  |Dropping client 292 because of ping timeout 19 0 0
+2021-02-11 15:29:37.553246|INFO    |PktHandler    |1  |Dropping client 291 because of ping timeout 19 0 0
+2021-02-20 19:26:15.504604|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:999999999) was added by 'SchwulesAlpaka'(id:3) to channel '● Alex'(id:9)
+2021-02-20 19:27:49.429924|INFO    |VirtualServer |1  |client 'MaggiSchmaggi'(id:16) was added to servergroup 'Server Admin'(id:6) by client 'SchwulesAlpaka'(id:3)
+2021-02-20 19:27:54.673394|INFO    |VirtualServer |1  |client 'MaggiSchmaggi'(id:16) was removed from servergroup 'Server Admin'(id:6) by client 'SchwulesAlpaka'(id:3)
+2021-02-20 19:40:00.589061|INFO    |PktHandler    |1  |Dropping client 305 because of ping timeout 19 0 0
+2021-02-20 19:42:00.768693|INFO    |PktHandler    |1  |Dropping client 309 because of ping timeout 19 0 0
+2021-02-23 12:57:41.601660|INFO    |PktHandler    |1  |Dropping client 318 because of ping timeout 19 0 0
+2021-02-23 12:57:41.601770|INFO    |PktHandler    |1  |Dropping client 317 because of ping timeout 19 0 0
+2021-02-23 12:57:41.601803|INFO    |PktHandler    |1  |Dropping client 316 because of ping timeout 19 0 0
+2021-02-24 01:06:01.766313|INFO    |PktHandler    |1  |Dropping client 328 because of ping timeout 19 0 0
+2021-02-24 15:51:02.034443|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2021-02-24 15:51:02.034515|INFO    |PktHandler    |1  |Dropping client 330 because of resend timeout
+2021-02-24 16:43:32.583191|INFO    |PktHandler    |1  |Dropping client 334 because of ping timeout 19 0 0
+2021-02-24 16:43:32.583278|INFO    |PktHandler    |1  |Dropping client 336 because of ping timeout 19 0 0
+2021-02-24 16:47:42.907777|INFO    |PktHandler    |1  |Dropping client 333 because of ping timeout 19 0 0
+2021-02-24 17:10:20.601668|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2021-02-24 17:10:20.601744|INFO    |PktHandler    |1  |Dropping client 339 because of resend timeout
+2021-02-24 18:29:31.642504|INFO    |PktHandler    |1  |Dropping client 338 because of ping timeout 19 0 0
+2021-02-24 18:29:31.642608|INFO    |PktHandler    |1  |Dropping client 337 because of ping timeout 19 0 0
+2021-02-24 18:29:31.642639|INFO    |PktHandler    |1  |Dropping client 335 because of ping timeout 19 0 0
+2021-02-24 18:41:16.557388|INFO    |PktHandler    |1  |Dropping client 342 because of ping timeout 19 0 0
+2021-02-24 20:28:18.990625|INFO    |PktHandler    |1  |Dropping client 344 because of ping timeout 19 0 0
+2021-02-24 20:28:18.990740|INFO    |PktHandler    |1  |Dropping client 343 because of ping timeout 19 0 0
+2021-02-24 21:31:08.757431|INFO    |PktHandler    |1  |Dropping client 347 because of ping timeout 19 0 0
+2021-02-24 21:44:36.791773|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2021-02-24 21:44:36.791856|INFO    |PktHandler    |1  |Dropping client 348 because of resend timeout
+2021-02-25 00:37:51.000949|INFO    |PktHandler    |1  |Dropping client 351 because of ping timeout 19 0 0
+2021-02-25 00:37:51.001083|INFO    |PktHandler    |1  |Dropping client 350 because of ping timeout 19 0 0
+2021-02-25 00:51:57.051153|INFO    |PktHandler    |1  |Dropping client 352 because of ping timeout 19 0 0
+2021-02-25 09:57:09.661648|INFO    |PktHandler    |1  |Dropping client 354 because of ping timeout 19 0 0
+2021-02-25 10:07:51.558521|INFO    |PktHandler    |1  |Dropping client 355 because of ping timeout 19 0 0
+2021-02-25 10:23:11.881571|INFO    |PktHandler    |1  |Dropping client 356 because of ping timeout 19 0 0
+2021-02-25 13:09:12.399855|INFO    |PktHandler    |1  |Dropping client 357 because of ping timeout 19 0 0
+2021-02-25 14:10:37.433956|INFO    |PktHandler    |1  |Dropping client 358 because of ping timeout 19 0 0
+2021-02-25 14:28:50.896922|INFO    |PktHandler    |1  |Dropping client 359 because of ping timeout 19 0 0
+2021-02-25 15:04:41.631077|INFO    |PktHandler    |1  |Dropping client 360 because of ping timeout 19 0 0
+2021-02-25 16:32:01.384608|INFO    |PktHandler    |1  |Dropping client 362 because of ping timeout 19 0 0
+2021-02-25 16:32:01.384703|INFO    |PktHandler    |1  |Dropping client 361 because of ping timeout 19 0 0
+2021-02-25 18:09:46.981375|INFO    |PktHandler    |1  |Dropping client 364 because of ping timeout 19 0 0
+2021-02-25 18:57:41.623299|INFO    |PktHandler    |1  |Dropping client 368 because of ping timeout 19 0 0
+2021-02-25 20:33:47.865100|INFO    |PktHandler    |1  |Dropping client 369 because of ping timeout 19 0 0
+2021-03-03 18:11:05.224220|INFO    |PktHandler    |1  |Dropping client 383 because of ping timeout 19 0 0
+2021-03-04 20:12:31.446463|INFO    |PktHandler    |1  |Dropping client 390 because of ping timeout 19 0 0
+2021-03-04 20:15:39.705420|INFO    |PktHandler    |1  |Dropping client 391 because of ping timeout 19 0 0
+2021-03-05 19:29:00.133587|INFO    |PktHandler    |1  |Dropping client 395 because of ping timeout 19 0 0

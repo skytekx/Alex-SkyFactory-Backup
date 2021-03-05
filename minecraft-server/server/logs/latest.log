@@ -1,0 +1,49 @@
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[02:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[03:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:09:56] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2201ms behind, skipping 44 tick(s)
+[07:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2531ms behind, skipping 50 tick(s)
+[09:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[09:17:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2089ms behind, skipping 41 tick(s)
+[10:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[11:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[12:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[13:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[13:55:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[13:55:28] [Server thread/INFO] [AromaBackup]: No backup in progress. No server delay needed.
+[13:55:28] [Server thread/INFO] [Prestige]: Saving data for af6718ae-82b8-4c41-a28e-a555707fa868.
+[13:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/DIM_0
+[13:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[13:55:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[13:55:29] [Server thread/INFO] [FML]: Unloading dimension 2
+[13:55:29] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[13:55:29] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[13:55:29] [Server thread/INFO] [nuclearcraft]: Server Closing...
+[13:55:29] [Server thread/INFO] [Parabox]: Saving Parabox world data.
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Server Info Handler
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Network Handler
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Data Factory
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Data Manager
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Redstone Manager
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Cable Connection Handler
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Redstone Connection Handler
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Server Display Handler
+[13:55:29] [Server thread/INFO] [practicallogistics2]: Cleared Chunk Viewer Handler
+[13:55:29] [Server thread/INFO] [topography]: Cleaning up
+[13:55:29] [Server thread/INFO] [topography]: Unregistering Dimension 0
+[13:55:29] [Server thread/INFO] [topography]: Registering Dimension 0
+[13:55:29] [Server thread/INFO] [topography]: Unregistering Dimension -1
+[13:55:29] [Server thread/INFO] [topography]: Registering Dimension -1
+[13:55:29] [Server thread/INFO] [topography]: Done clean-up
+[13:55:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:55:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:55:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

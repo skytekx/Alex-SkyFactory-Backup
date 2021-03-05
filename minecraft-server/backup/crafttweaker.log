@@ -1,0 +1,937 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: creative.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: renaming.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: useful.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 4ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: creative.zs}
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tic for Creative Modifier
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_ae2cell for Creative Energy Cell
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_te_capacitor for Flux Capacitor (Creative)
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_creative_rf for Creative RF Source
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_de_capacitor for Creative Flux Capacitor
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_embers for Creative Ember Source
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: renaming.zs}
+[INITIALIZATION][SERVER][INFO] Translating item.pe_matter_dark.name to Alchemical Dark Matter
+[INITIALIZATION][SERVER][INFO] Translating tile.questutils.pedestal.name to Trophy
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: stages.zs}
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:1> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:2> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:3> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:4> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:5> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:6> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:7> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:altar:8> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:pestleandmortar> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <botania:lens:*> to stage: "mf"
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:blockbreaker> to stage: "ba"
+[INITIALIZATION][SERVER][INFO] Adding: <justanothersnad:snad> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <justanothersnad:snad:1> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <justanothersnad:soul_snad> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <darkutils:trap_move> to stage: "ba"
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:hopper> to stage: "ba"
+[INITIALIZATION][SERVER][INFO] Adding: <lootbags:loot_opener> to stage: "ba"
+[INITIALIZATION][SERVER][INFO] Adding: <darkutils:timer> to stage: "ba"
+[INITIALIZATION][SERVER][INFO] Adding: <agricraft:crop_sticks> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <agricraft:seed_analyzer> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <agricraft:clipper> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <agricraft:sprinkler> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <agricraft:trowel> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:wateringcan:*> to stage: "bf"
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Worm - actuallyadditions:item_worm:0
+[INITIALIZATION][SERVER][INFO] Adding: <ironchest:iron_chest> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <ironchest:iron_chest:3> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <ironchest:iron_chest:7> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <ironchest:wood_copper_chest_upgrade> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <ironchest:wood_iron_chest_upgrade> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <endertanks:ender_tank> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <endertanks:ender_bucket> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:ender_bag:2> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall:1> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall:2> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall:3> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall:4> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:chest_wall:5> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <colossalchests:uncolossal_chest> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:stone_storage> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:stone_storage:1> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:stone_storage:3> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:stone_storage:5> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <multistorage:stone_storage:7> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <storagedrawers:compdrawers> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <storagedrawers:controller> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <yabba:item_barrel_connector> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding: <yabba:antibarrel> to stage: "bs"
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. item.silentgems.gem32767.name - silentgems:gem:32767
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:craftingmaterial:1> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:craftingmaterial:29> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:glowrosefertilizer> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:petsummoner> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:petsummoner:1> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Ectoplasm - randomthings:ingredient:2
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:spectrekey> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:spectreanchor> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:ingredient:3> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:timeinabottle> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <psi:cad_assembly> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <psi:cad_assembly:1> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <psi:cad_assembler> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:chaosgem:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:sword:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:dagger:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:pickaxe:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:machete:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:katana:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:paxel:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:scepter:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:tomahawk:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:bow:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:shield:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:hoe:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:shovel:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:axe:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:sickle:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:helmet:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:chestplate:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:leggings:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:boots:*> to stage: "stm"
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. item.silentgems.chaosgem32767.name - silentgems:chaosgem:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Sword - silentgems:sword:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Dagger - silentgems:dagger:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Pickaxe - silentgems:pickaxe:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Machete - silentgems:machete:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Katana - silentgems:katana:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Paxel - silentgems:paxel:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Scepter - silentgems:scepter:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Tomahawk - silentgems:tomahawk:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Bow - silentgems:bow:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Shield - silentgems:shield:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Hoe - silentgems:hoe:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Shovel - silentgems:shovel:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Axe - silentgems:axe:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Sickle - silentgems:sickle:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Helmet - silentgems:helmet:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Chestplate - silentgems:chestplate:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Leggings - silentgems:leggings:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Gem Boots - silentgems:boots:32767
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:sluice> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:autopuller> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:grindstone> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:hatch> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:conveyor> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:itempusher> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:elevator> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:bottomhatch> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:autocrafter> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:pipe> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding: <factorytech:machinepart:*> to stage: "abf"
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Arid Garden - harvestcraft:aridgarden:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Frost Garden - harvestcraft:frostgarden:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Shaded Garden - harvestcraft:shadedgarden:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Soggy Garden - harvestcraft:soggygarden:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Tropical Garden - harvestcraft:tropicalgarden:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Windy Garden - harvestcraft:windygarden:0
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:shippingbin> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:market> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:presser> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:well> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:groundtrap> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:watertrap> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:cuttingboarditem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:potitem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:saucepanitem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:bakewareitem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:mortarandpestleitem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:mixingbowlitem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:juiceritem> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <harvestcraft:waterfilter> to stage: "amc"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:block_misc:4> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:block_misc:8> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:block_misc:9> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:item_misc:6> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:item_misc:7> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:item_misc:8> to stage: "aa"
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpos. Floating Crystal - astralsorcery:blockcollectorcrystal:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpos. Rock Crystal Ore - astralsorcery:blockcustomore:0
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:sturdy_machine> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:pipette> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:worktable> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:grafter> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:engine_biogas> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:engine_peat> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:engine_clockwork> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:bog_earth> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <magicbees:manasteelgrafter> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:99> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <skyresources:wildlifeattractor> to stage: "litf"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:tool> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:tool:1> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:tool:2> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:tool:3> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:1> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:2> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:3> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:4> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:5> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:9> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:connector:12> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_decoration0:3> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_decoration0:7> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_device0:4> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_device0:5> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_device0:6> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal_device1:6> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:stone_decoration> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:stone_decoration:1> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:stone_decoration:8> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:stone_decoration:10> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:conveyor> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:material:8> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:material:9> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:material:20> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:material:21> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:material:22> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal:15> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <immersiveengineering:metal:16> to stage: "hm"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:goldenlasso> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:glasscutter> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <inventorygenerators:inv_survivalist_gen> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <ore:blockMagicalWood> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:analogcrafter> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:crafter> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:resonator> to stage: "eu"
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Error - extrautils2:ingredients:32767
+[INITIALIZATION][SERVER][INFO] Adding: <embers:tinker_hammer> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:ember_activator> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:mech_core> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:pipe> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:item_pipe> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:pump> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:item_pump> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:item_dropper> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:item_transfer> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:vacuum> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <embers:breaker> to stage: "e"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:apiary> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <forestry:bee_house> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <gendustry:bee_receptacle> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <gendustry:power_module> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <gendustry:genetics_processor> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <gendustry:env_processor> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding: <gendustry:mutagen_tank> to stage: "b"
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Queen - forestry:bee_queen_ge:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Princess - forestry:bee_princess_ge:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Drone - forestry:bee_drone_ge:0
+[INITIALIZATION][SERVER][INFO] Adding: <tconstruct:soil> to stage: "atb"
+[INITIALIZATION][SERVER][INFO] Adding: <tinker_io:solidfuel> to stage: "atb"
+[INITIALIZATION][SERVER][INFO] Adding: <tinker_io:stirling_engine> to stage: "atb"
+[INITIALIZATION][SERVER][INFO] Adding: <tinker_io:upg> to stage: "atb"
+[INITIALIZATION][SERVER][INFO] Adding: <compactmachines3:psd> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding: <pneumaticcraft:pressure_tube> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding: <pneumaticcraft:pressure_chamber_wall> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding: <pneumaticcraft:pressure_chamber_glass> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding: <pneumaticcraft:liquid_hopper> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding: <pneumaticcraft:omnidirectional_hopper> to stage: "up"
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Compressed Iron Ingot - pneumaticcraft:ingot_iron_compressed:0
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:machine_frame> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:iron_furnace> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:4> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:6> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:24> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:26> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:35> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:part:36> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:1> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:2> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:3> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:4> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:5> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:6> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:cable:7> to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding: <techreborn:energycrystal>.withTag({energy: 0}) to stage: "rt"
+[INITIALIZATION][SERVER][INFO] Adding to item stage rt. Energy Flow Circuit - techreborn:part:32767
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:dev_null> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:xp_shower> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:fan> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:hang_glider> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:luggage> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:xp_drain> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:sprinkler> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:tank> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Dimension 4 has been added to stage oa
+[INITIALIZATION][SERVER][INFO] Adding: <aether_legacy:leather_gloves> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <aether_legacy:iron_gloves> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <aether_legacy:golden_gloves> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <aether_legacy:diamond_gloves> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <aether_legacy:white_cape> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:vacuum_hopper> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <darkutils:ender_hopper> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <randomthings:itemcollector> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:1> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:1> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:2> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:2> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:3> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:3> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:4> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:4> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:5> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:5> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:6> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:6> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:7> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:7> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:8> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:8> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:9> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:9> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:10> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:10> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:11> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:11> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:12> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:12> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:13> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:13> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:14> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:14> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator:15> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:elevator_rotating:15> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <openblocks:sleeping_bag> to stage: "oa"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:dark_spike> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:sanguinary_pedestal> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:sanguinary_pedestal:1> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:blood_infusion_core> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:obscured_glass> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <evilcraft:dark_tank> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <bloodmagic:soul_snare> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <bloodmagic:soul_forge> to stage: "ub"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:97> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:98> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:100> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:101> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:102> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:103> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:512> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:513> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:514> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:515> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalexpansion:frame:*> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_0> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_0:6> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_16> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_16:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_16:2> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_16:3> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_32> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_32:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_48> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_64:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:duct_64:3> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalexpansion:tank> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:1> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:2> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:3> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:4> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:5> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:6> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:7> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:8> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:9> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:10> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:11> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:12> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:13> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:14> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:colored_egg:15> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <roost:catcher> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <roost:roost> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <roost:breeder> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse_acacia> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse_birch> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse_dark_oak> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse_jungle> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding: <chickens:henhouse_spruce> to stage: "c"
+[INITIALIZATION][SERVER][INFO] Adding chickens:chickenschicken to stage.c
+[INITIALIZATION][SERVER][INFO] Adding: <industrialforegoing:latex_processing_unit> to stage: "ir"
+[INITIALIZATION][SERVER][INFO] Adding: <industrialforegoing:tree_fluid_extractor> to stage: "ir"
+[INITIALIZATION][SERVER][INFO] Adding: <industrialforegoing:dryrubber> to stage: "ir"
+[INITIALIZATION][SERVER][INFO] Adding: <teslacorelib:machine_case> to stage: "ir"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock:6> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock:8> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock:9> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock:10> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock2> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:basicblock2:7> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:gastank> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:tierinstaller> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:1> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:2> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:3> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:4> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:5> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:transmitter:6> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:machineblock:*> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Adding: <mekanism:machineblock2:*> to stage: "am"
+[INITIALIZATION][SERVER][INFO] Dimension 7 has been added to stage ttr
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:servo> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:servo:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:servo:2> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:servo:3> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:servo:4> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:filter> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:filter:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:filter:2> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:filter:3> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:filter:4> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:retriever> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:retriever:1> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:retriever:2> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:retriever:3> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermaldynamics:retriever:4> to stage: "tm"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:upgrade> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:upgrade:1> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:upgrade:2> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:upgrade:3> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <redstonearsenal:material:192> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <redstonearsenal:material:224> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalexpansion:capacitor> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:1024> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:1025> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:1026> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <thermalfoundation:material:1027> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <simplyjetpacks:metaitem:4> to stage: "te"
+[INITIALIZATION][SERVER][INFO] Adding: <bigreactors:reactorcasingcores> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding: <bigreactors:turbinehousingcores> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding: <advgenerators:power_io> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding: <advgenerators:iron_frame> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding: <advgenerators:iron_wiring> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding: <advgenerators:iron_tubing> to stage: "lm"
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Yellorium Ingot - bigreactors:ingotmetals:32767
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:crystal_seed> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:crystal_seed:600> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:crystal_seed:1200> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:part:36> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:inscriber> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:charger> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <appliedenergistics2:energy_acceptor> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <extracells:certustank> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <immersivecables:wire_coil> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <immersivecables:wire_coil:1> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding: <immersivecables:wire_coil:2> to stage: "ds"
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Fluix Crystal - appliedenergistics2:material:7
+[INITIALIZATION][SERVER][INFO] Adding: <environmentaltech:litherite_crystal> to stage: "et"
+[INITIALIZATION][SERVER][INFO] Adding: <environmentaltech:laser_lens> to stage: "et"
+[INITIALIZATION][SERVER][INFO] Adding: <environmentaltech:connector> to stage: "et"
+[INITIALIZATION][SERVER][INFO] Adding: <fluxnetworks:fluxcore> to stage: "ac"
+[INITIALIZATION][SERVER][INFO] Adding: <integrateddynamics:variable> to stage: "ac"
+[INITIALIZATION][SERVER][INFO] Adding: <integrateddynamics:energy_battery:*> to stage: "ac"
+[INITIALIZATION][SERVER][INFO] Adding: <integrateddynamics:cable> to stage: "ac"
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Flux - fluxnetworks:flux:0
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:passivegenerator:8> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:beacon> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:end_crystal> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <silentgems:craftingmaterial:19> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <xreliquary:alkahestry_tome> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:nether_star> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:skull:1> to stage: "ar"
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter - skyresources:baseitemcomponent:3
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Light Matter - skyresources:baseitemcomponent:7
+[INITIALIZATION][SERVER][INFO] Dimension 1 has been added to stage ar
+[INITIALIZATION][SERVER][INFO] Adding minecraft:wither to stage.ar
+[INITIALIZATION][SERVER][INFO] Adding minecraft:wither_skeleton to stage.ar
+[INITIALIZATION][SERVER][INFO] Adding: <rftools:machine_frame> to stage: "rft"
+[INITIALIZATION][SERVER][INFO] Adding: <rftools:machine_base> to stage: "rft"
+[INITIALIZATION][SERVER][INFO] Adding: <rftools:storage_module_tablet:*> to stage: "rft"
+[INITIALIZATION][SERVER][INFO] Adding: <rftools:syringe:*> to stage: "rft"
+[INITIALIZATION][SERVER][INFO] Adding to item stage rft. Dimensional Shard - rftools:dimensional_shard:0
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:crafting:16> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:crafting:22> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:crafting:23> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:crafting:24> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:crafting:32> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:infusion_crystal> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:tier1_inferium_seeds> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:inferium_apple> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:coal> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding: <mysticalagriculture:inferium_furnace> to stage: "mc"
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. invalid.name - mysticalagriculture:crafting:32767
+[INITIALIZATION][SERVER][INFO] Adding: <draconicevolution:draconic_core> to stage: "tpod"
+[INITIALIZATION][SERVER][INFO] Adding: <draconicevolution:draconic_ingot> to stage: "tpod"
+[INITIALIZATION][SERVER][INFO] Adding: <draconicevolution:dislocator> to stage: "tpod"
+[INITIALIZATION][SERVER][INFO] Adding: <extrautils2:bagofholding> to stage: "tpod"
+[INITIALIZATION][SERVER][INFO] Adding: <actuallyadditions:block_laser_relay> to stage: "tpod"
+[INITIALIZATION][SERVER][INFO] Adding: <projecte:item.pe_philosophers_stone:*> to stage: "ee"
+[INITIALIZATION][SERVER][INFO] Adding: <projecte:collector_mk1> to stage: "ee"
+[INITIALIZATION][SERVER][INFO] Adding: <projecte:relay_mk1> to stage: "ee"
+[INITIALIZATION][SERVER][INFO] Adding: <avaritia:resource> to stage: "o"
+[INITIALIZATION][SERVER][INFO] Adding: <avaritia:compressed_crafting_table> to stage: "o"
+[INITIALIZATION][SERVER][INFO] Adding to item stage o. item.resource.null.name - avaritia:resource:32767
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_material:11> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_material:12> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_material:13> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_material:22> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_basic_capacitor> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:item_material> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <enderio:block_tank> to stage: "em"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:sapling_greatwood> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:sapling_silverwood> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:shimmerleaf> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_aer> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_ignis> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_aqua> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_terra> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_ordo> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:crystal_perditio> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding: <thaumcraft:salis_mundus> to stage: "tw"
+[INITIALIZATION][SERVER][INFO] Adding to item stage mf. tile.botania:altar32767.name - botania:altar:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage mf. Pestle and Mortar - botania:pestleandmortar:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Block Breaker - randomthings:blockbreaker:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Wooden Spikes - extrautils2:spike_wood:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Stone Spikes - extrautils2:spike_stone:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Iron Spikes - extrautils2:spike_iron:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Golden Spikes - extrautils2:spike_gold:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Diamond Spikes - extrautils2:spike_diamond:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Crucible Inserter - skyresources:crucibleinserter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Combustion Collector - skyresources:combustioncollector:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Quick Dropper - skyresources:quickdropper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Vector Plate - darkutils:trap_move:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Timer - darkutils:timer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Iron Chest - ironchest:iron_chest:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Gold Chest - ironchest:iron_chest:1
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Diamond Chest - ironchest:iron_chest:2
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Copper Chest - ironchest:iron_chest:3
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Silver Chest - ironchest:iron_chest:4
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Crystal Chest - ironchest:iron_chest:5
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Obsidian Chest - ironchest:iron_chest:6
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. DirtChest 9000! - ironchest:iron_chest:7
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Wood to Copper Chest Upgrade - ironchest:wood_copper_chest_upgrade:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Wood to Iron Chest Upgrade - ironchest:wood_iron_chest_upgrade:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Ender Tank - endertanks:ender_tank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Ender Bucket - endertanks:ender_bucket:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. EnderBag - multistorage:ender_bag:2
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Colossal Chest Wall - colossalchests:chest_wall:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Uncolossal Chest - colossalchests:uncolossal_chest:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Unused Item - multistorage:stone_storage:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. AntiBarrel - yabba:antibarrel:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Enriched Chaos Essence - silentgems:craftingmaterial:1
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Unfired Chaos Iron Ingot - silentgems:craftingmaterial:29
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Glow Rose Fertilizer - silentgems:glowrosefertilizer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Summon Puppy - silentgems:petsummoner:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Spectre Key - randomthings:spectrekey:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Spectre Anchor - randomthings:spectreanchor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Spectre Ingot - randomthings:ingredient:3
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. Time in a bottle - randomthings:timeinabottle:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. item.psi:cad_assembly.name - psi:cad_assembly:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage stm. CAD Assembler - psi:cad_assembler:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. River Grate - factorytech:sluice:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Auto Ejector - factorytech:autopuller:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Grindstone - factorytech:grindstone:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Insertion Hatch - factorytech:hatch:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Transport Rollers - factorytech:conveyor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Pulse Piston - factorytech:itempusher:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Fan Lift - factorytech:elevator:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Lift Receiver - factorytech:bottomhatch:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Stone Gear - factorytech:machinepart:10
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. River Iron Shaft - factorytech:machinepart:50
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Stone Drillbit - factorytech:machinepart:70
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Shipping Bin - harvestcraft:shippingbin:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Market - harvestcraft:market:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Presser - harvestcraft:presser:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Well - harvestcraft:well:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Ground Trap - harvestcraft:groundtrap:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Water Trap - harvestcraft:watertrap:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Cutting Board - harvestcraft:cuttingboarditem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Pot - harvestcraft:potitem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Saucepan - harvestcraft:saucepanitem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Bakeware - harvestcraft:bakewareitem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Mortar and Pestle - harvestcraft:mortarandpestleitem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Mixing Bowl - harvestcraft:mixingbowlitem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Juicer - harvestcraft:juiceritem:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Wood Casing - actuallyadditions:block_misc:4
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Ender Casing - actuallyadditions:block_misc:8
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Iron Casing - actuallyadditions:block_misc:9
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpos. Linking Tool - astralsorcery:itemlinkingtool:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Sturdy Casing - forestry:sturdy_machine:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Pipette - forestry:pipette:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Worktable - forestry:worktable:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Grafter - forestry:grafter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Manasteel Grafter - magicbees:manasteelgrafter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. item.immersiveengineering.tool..name - immersiveengineering:tool:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Golden Lasso - extrautils2:goldenlasso:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Glass Cutter - extrautils2:glasscutter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Machine Block - extrautils2:machine:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Magical Planks - extrautils2:decorativesolidwood:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Tinker's Hammer - embers:tinker_hammer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Ember Activator - embers:ember_activator:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Mechanical Core - embers:mech_core:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Apiary - forestry:apiary:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Bee House - forestry:bee_house:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Bee Receptacle - gendustry:bee_receptacle:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Power Module - gendustry:power_module:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Genetics Processor - gendustry:genetics_processor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Environmental Processor - gendustry:env_processor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage b. Mutagen Tank - gendustry:mutagen_tank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage atb. Grout - tconstruct:soil:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage atb. Solid Fuel - tinker_io:solidfuel:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage atb. Stirling Engine - tinker_io:stirling_engine:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage atb. Base Upgrade - tinker_io:upg:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Personal Shrinking Device - compactmachines3:psd:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Pressure Tube - pneumaticcraft:pressure_tube:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Pressure Chamber Wall - pneumaticcraft:pressure_chamber_wall:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Pressure Chamber Glass - pneumaticcraft:pressure_chamber_glass:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage rt. Basic Machine Frame - techreborn:machine_frame:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage rt. Iron Furnace - techreborn:iron_furnace:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. /dev/null - openblocks:dev_null:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. XP Shower - openblocks:xp_shower:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Fan - openblocks:fan:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Hang Glider - openblocks:hang_glider:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Luggage - openblocks:luggage:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. XP Drain - openblocks:xp_drain:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Sprinkler - openblocks:sprinkler:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Leather Gloves - aether_legacy:leather_gloves:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Iron Gloves - aether_legacy:iron_gloves:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Golden Gloves - aether_legacy:golden_gloves:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Diamond Gloves - aether_legacy:diamond_gloves:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. White Cape - aether_legacy:white_cape:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Spike - evilcraft:dark_spike:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Sanguinary Pedestal - evilcraft:sanguinary_pedestal:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Blood Infusion Core - evilcraft:blood_infusion_core:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Promise of Productivity - evilcraft:promise:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Invar Blend - thermalfoundation:material:98
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Bronze Blend - thermalfoundation:material:99
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Constantan Blend - thermalfoundation:material:100
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Signalum Blend - thermalfoundation:material:101
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Lumium Blend - thermalfoundation:material:102
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Enderium Blend - thermalfoundation:material:103
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. item.invalid.name - thermalexpansion:frame:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Ink Black Chicken Egg - chickens:colored_egg:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Chicken Catcher - roost:catcher:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Roost - roost:roost:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Chicken Breeder - roost:breeder:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ir. Latex Processing Unit - industrialforegoing:latex_processing_unit:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ir. Tree Fluid Extractor - industrialforegoing:tree_fluid_extractor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ir. Dry Rubber - industrialforegoing:dryrubber:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage am. Invalid Basic Block.name - mekanism:basicblock:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage am. null.name - mekanism:machineblock:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. item.thermaldynamics.servo.32767.name - thermaldynamics:servo:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. item.thermaldynamics.filter.32767.name - thermaldynamics:filter:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. item.thermaldynamics.retriever.32767.name - thermaldynamics:retriever:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. item.invalid.name - thermalfoundation:upgrade:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. item.invalid.name - redstonearsenal:material:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. item.invalid.name - thermalexpansion:satchel:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. item.invalid.name - thermalexpansion:capacitor:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Duct - thermaldynamics:duct_0:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Duct - thermaldynamics:duct_16:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Duct - thermaldynamics:duct_32:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Duct - thermaldynamics:duct_48:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Duct - thermaldynamics:duct_64:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Reactor Casing Core (Legacy) - bigreactors:reactorcasingcores:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Turbine Housing Core (Legacy) - bigreactors:turbinehousingcores:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Power IO Module - advgenerators:power_io:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Iron Frame - advgenerators:iron_frame:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Redstone-Iron Wiring - advgenerators:iron_wiring:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Iron Tubing - advgenerators:iron_tubing:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage lm. Basic Plating - nuclearcraft:part:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. item.appliedenergistics2.crystal_seed.name - appliedenergistics2:crystal_seed:32400{progress:32767}
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Disabled Item - appliedenergistics2:part:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Inscriber - appliedenergistics2:inscriber:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Charger - appliedenergistics2:charger:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Energy Acceptor - appliedenergistics2:energy_acceptor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage et. Litherite Crystal - environmentaltech:litherite_crystal:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage et. Clear Laser Lens - environmentaltech:laser_lens:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage et. Connector - environmentaltech:connector:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Calculator Assembly - calculator:calculatorassembly:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Calculator Screen - calculator:calculatorscreen:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Power Cube - calculator:powercube:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Crank Handle - calculator:crankhandle:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Hand Cranked Generator - calculator:handcrankedgenerator:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Flux Core - fluxnetworks:fluxcore:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter Block - skyresources:darkmatterblock:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter Casing - skyresources:casing:12
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter Warper - skyresources:darkmatterwarper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter Heat Component - skyresources:heat:12
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dark Matter Alchemy Component - skyresources:alchemy:12
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Light Matter Block - skyresources:lightmatterblock:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Light Matter Casing - skyresources:casing:13
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Light Matter Heat Component - skyresources:heat:13
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Light Matter Alchemy Component - skyresources:alchemy:13
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Dragon Egg Mill - extrautils2:passivegenerator:8
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Beacon - minecraft:beacon:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. End Crystal - minecraft:end_crystal:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Nether Shard - silentgems:craftingmaterial:19
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. item.alkahestry_tome.name - xreliquary:alkahestry_tome:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage rft. Machine Frame - rftools:machine_frame:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage rft. Machine Base - rftools:machine_base:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. Infusion Crystal - mysticalagriculture:infusion_crystal:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. Inferium Seeds - mysticalagriculture:tier1_inferium_seeds:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. Inferium Apple - mysticalagriculture:inferium_apple:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. Inferium Coal - mysticalagriculture:coal:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage mc. Inferium Furnace - mysticalagriculture:inferium_furnace:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpod. Draconic Core - draconicevolution:draconic_core:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpod. Awakened Draconium Ingot - draconicevolution:draconic_ingot:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage o. Compressed Crafting Table - avaritia:compressed_crafting_table:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Vacuum Hopper - openblocks:vacuum_hopper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Ender Hopper - darkutils:ender_hopper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Fluid Pipe - embers:pipe:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Item Pipe - embers:item_pipe:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Fluid Extractor - embers:pump:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Item Extractor - embers:item_pump:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Item Dropper - embers:item_dropper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Item Transfer - embers:item_transfer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Item Vacuum - embers:vacuum:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpod. Bag Of Holding - extrautils2:bagofholding:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. LV Wire Connector - immersiveengineering:connector:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. item.immersiveengineering.wirecoil..name - immersiveengineering:wirecoil:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. Copper Coil Block - immersiveengineering:metal_decoration0:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. LV Capacitor - immersiveengineering:metal_device0:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. Blast Furnace Preheater - immersiveengineering:metal_device1:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Transfer Pipe - extrautils2:pipe:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Analog Crafter - extrautils2:analogcrafter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage rft. Storage Tablet - rftools:storage_module_tablet:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Certus Quartz Tank - extracells:certustank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Portable Tank (Basic) - thermalexpansion:tank:32767{RSControl:0b,Level:0b}
+[INITIALIZATION][SERVER][INFO] Adding to item stage rft. Syringe - rftools:syringe:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Henhouse - chickens:henhouse:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Acacia Henhouse - chickens:henhouse_acacia:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Birch Henhouse - chickens:henhouse_birch:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Dark Oak Henhouse - chickens:henhouse_dark_oak:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Jungle Henhouse - chickens:henhouse_jungle:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage c. Spruce Henhouse - chickens:henhouse_spruce:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Stone Drum - extrautils2:drum:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. Refined Fiber Wire Coil - immersivecables:wire_coil:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. tile.immersivecables:coil_block.32767.name - immersivecables:coil_block:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ds. tile.immersivecables:transformer_fluix.32767.name - immersivecables:transformer_fluix:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Hopper - minecraft:hopper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Item Collector - randomthings:itemcollector:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Ring - actuallyadditions:item_misc:6
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Basic Coil - actuallyadditions:item_misc:7
+[INITIALIZATION][SERVER][INFO] Adding to item stage aa. Advanced Coil - actuallyadditions:item_misc:8
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Calculator - calculator:calculator:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Nether Star - minecraft:nether_star:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ar. Wither Skeleton Skull - minecraft:skull:1
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Pyrotheum Dust - thermalfoundation:material:1024
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Cryotheum Dust - thermalfoundation:material:1025
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Aerotheum Dust - thermalfoundation:material:1026
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Petrotheum Dust - thermalfoundation:material:1027
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. item.invalid.name - thermalexpansion:reservoir:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Redstone Servo - thermalfoundation:material:512
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Redstone Reception Coil - thermalfoundation:material:513
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Redstone Transmission Coil - thermalfoundation:material:514
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Redstone Conductance Coil - thermalfoundation:material:515
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Biogas Engine - forestry:engine_biogas:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Peat-fired Engine - forestry:engine_peat:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Clockwork Engine - forestry:engine_clockwork:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Bog Earth - forestry:bog_earth:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpod. Energy Laser Relay - actuallyadditions:block_laser_relay:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Liquid Hopper - pneumaticcraft:liquid_hopper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage up. Omnidirectional Hopper - pneumaticcraft:omnidirectional_hopper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage te. Leather Strap - simplyjetpacks:metaitem:4
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Elevator - openblocks:elevator:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Rotating Elevator - openblocks:elevator_rotating:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Sleeping Bag - openblocks:sleeping_bag:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ba. Bag Opener - lootbags:loot_opener:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. Coke Brick - immersiveengineering:stone_decoration:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. tile.immersiveengineering.conveyor..name - immersiveengineering:conveyor:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Obscured Glass - evilcraft:obscured_glass:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Border Stone - extrautils2:decorativesolid:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Thickened Glass - extrautils2:decorativeglass:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Ethereal Glass - extrautils2:ineffableglass:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ee. Invalid metadata set - projecte:item.pe_covalence_dust:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ee. Philosopher's Stone - projecte:item.pe_philosophers_stone:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ee. Energy Collector MK1 - projecte:collector_mk1:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ee. Anti-Matter Relay MK1 - projecte:relay_mk1:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Autocrafting Unit - factorytech:autocrafter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Snad - justanothersnad:snad:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Soul Snad - justanothersnad:soul_snad:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Compressed Snad - sc:compressedsnad:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Compressed Red Snad - sc:compressedredsnad:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Compacting Drawer - storagedrawers:compdrawers:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage e. Automatic Breaker - embers:breaker:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Drawer Controller - storagedrawers:controller:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. Item Barrel Connector - yabba:item_barrel_connector:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage abf. Pipe - factorytech:pipe:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage oa. Tank - openblocks:tank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tm. Electrum Blend - thermalfoundation:material:97
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. Constantan Grit - immersiveengineering:metal:15
+[INITIALIZATION][SERVER][INFO] Adding to item stage hm. Electrum Grit - immersiveengineering:metal:16
+[INITIALIZATION][SERVER][INFO] Adding to item stage mf. Mana Lens: Tripwire - botania:lens:32767{}
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Compressed Snad - sc:compressedsnad:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Compressed Red Snad - sc:compressedredsnad:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage amc. Water Filter - harvestcraft:waterfilter:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Crop Sticks - agricraft:crop_sticks:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Seed Analyzer - agricraft:seed_analyzer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Clipper - agricraft:clipper:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Sprinkler - agricraft:sprinkler:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Dark Tank - evilcraft:dark_tank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Rudimentary Snare - bloodmagic:soul_snare:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ub. Hellfire Forge - bloodmagic:soul_forge:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage litf. Wildlife Attractor - skyresources:wildlifeattractor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Mechanical Miner - extrautils2:miner:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Mechanical User - extrautils2:user:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tpod. Dislocator - draconicevolution:dislocator:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bs. AntiBarrel - yabba:antibarrel:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Variable Card - integrateddynamics:variable:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Energy Battery - integrateddynamics:energy_battery:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage ac. Logic Cable - integrateddynamics:cable:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Gardening Trowel - agricraft:trowel:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage bf. Watering Can - extrautils2:wateringcan:32767
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Infinity Bimetal Gear - enderio:item_material:11
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Energized Bimetal Gear - enderio:item_material:12
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Vibrant Bimetal Gear - enderio:item_material:13
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Basic Capacitor - enderio:item_basic_capacitor:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Simple Machine Chassis - enderio:item_material:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Grains of Infinity - enderio:item_material:20
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Conduit Binder Composite - enderio:item_material:22
+[INITIALIZATION][SERVER][INFO] Adding to item stage eu. Inventory Survivalist Generator - inventorygenerators:inv_survivalist_gen:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage em. Fluid Tank - enderio:block_tank:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage ir. Machine Case - teslacorelib:machine_case:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Greatwood Sapling - thaumcraft:sapling_greatwood:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Silverwood Sapling - thaumcraft:sapling_silverwood:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Shimmerleaf - thaumcraft:shimmerleaf:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Air Crystal - thaumcraft:crystal_aer:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Fire Crystal - thaumcraft:crystal_ignis:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Water Crystal - thaumcraft:crystal_aqua:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Earth Crystal - thaumcraft:crystal_terra:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Order Crystal - thaumcraft:crystal_ordo:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Entropy Crystal - thaumcraft:crystal_perditio:0
+[INITIALIZATION][SERVER][INFO] Adding to item stage tw. Salis Mundus - thaumcraft:salis_mundus:0
+[INITIALIZATION][SERVER][INFO] Setting stage of: appeng to: br, bt, mf, bf, ba, bs, stm, abf, amc, aa, tpos, litf, hm, e, b, atm, up, rt, oa, ub, tm, c, ir, am, ttr, te, lm, ds, et, ac, ar, rft, ad, mc, tpod, ee, o, eu, atb, em, tw
+[INITIALIZATION][SERVER][INFO] Setting stage of: dalapo to: ba, abf
+[INITIALIZATION][SERVER][INFO] Setting stage of: techreborn to: rt, ad, ir, up, hm, atb, bs, abf, ba, e, stm, bf, mf
+[INITIALIZATION][SERVER][INFO] Setting stage of: crazypants to: em, tm, ir, e, up, stm, bf, mf, atb, abf, ba, bs, hm
+[INITIALIZATION][SERVER][INFO] Setting stage of: mcjty to: rft, et, em, oa, tm, ir, e, up, stm, bf, mf, atb, abf, ba, bs, hm, eu, tw, tpos, aa, am
+[INITIALIZATION][SERVER][INFO] Setting stage of: rwtema to: eu, stm, aa, mf, tpos, bf, ba, bs
+[INITIALIZATION][SERVER][INFO] Setting stage of: mekanism to: am, up, atb, hm, ba, bs, abf
+[INITIALIZATION][SERVER][INFO] Setting stage of: cofh to: e, hm, amf, ba, atb, bs, stm, mf, bf
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: useful.zs}
+[INITIALIZATION][SERVER][INFO] Removing Osmium Ingot from ore dictionary entry ingotOsmium
+[INITIALIZATION][SERVER][INFO] Removing Cobalt Ingot from ore dictionary entry ingotCobalt
+[INITIALIZATION][SERVER][INFO] Removing Ardite Ingot from ore dictionary entry ingotArdite
+[INITIALIZATION][SERVER][INFO] Removing Manyullyn Ingot from ore dictionary entry ingotManyullyn
+[INITIALIZATION][SERVER][INFO] Adding Salt to ore dictionary entry itemSalt
+[INITIALIZATION][SERVER][INFO] Adding Salt to ore dictionary entry dustSalt
+[INITIALIZATION][SERVER][INFO] Adding Nether Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Ender Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Crushed Dark Gem to ore dictionary entry dustDark
+[INITIALIZATION][SERVER][INFO] Adding Dimensional Shard Ore to ore dictionary entry oreDimensionalShard
+[INITIALIZATION][SERVER][INFO] Adding Dimensional Shard Ore to ore dictionary entry oreDimensionalShard
+[INITIALIZATION][SERVER][INFO] Adding Block of Manasteel to ore dictionary entry blockManasteel
+[INITIALIZATION][SERVER][INFO] Adding Block of Terrasteel to ore dictionary entry blockTerrasteel
+[INITIALIZATION][SERVER][INFO] Adding Block of Elementium to ore dictionary entry blockElementium
+[INITIALIZATION][SERVER][INFO] Adding Spider Web Sapling to ore dictionary entry treeSapling
+[INITIALIZATION][SERVER][INFO] Adding Avocado Sapling to ore dictionary entry treeSapling
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.aridgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.frostgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.shadedgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.soggygarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.tropicalgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.windygarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.aridgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.frostgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.shadedgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.soggygarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.tropicalgarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.windygarden@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.blockCoal@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xitem.skyresources.alchemyItemComponent.@1
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xitem.archaic_brick@0
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mysticalagriculture:crafting:5>: Can only be obtained from the ore.
+[INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for item.roost.chicken.name
+[INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for item.roost.chicken.name
+[INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for item.roost.chicken.name
+[INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for item.roost.chicken.name
+[INITIALIZATION][SERVER][INFO] Altering Melting Recipe(s) for <liquid:ender>
+[INITIALIZATION][SERVER][INFO] Altering Melting Recipe(s) for <liquid:redstone>
+[INITIALIZATION][SERVER][INFO] Altering Melting Recipe(s) for <liquid:glowstone>
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.sapling_greatwood@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.sapling_silverwood@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.shimmerleaf@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_aer@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_ignis@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_aqua@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_terra@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_ordo@0
+[INITIALIZATION][SERVER][INFO] Adding Sky Resources recipe for 1xtile.crystal_perditio@0
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 1123ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:coarse_dirt"
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Double Compressed Cobblestone with name ct_shaped1965698786
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Double Compressed Cobblestone with name ct_shapeless1614625912
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Dough with name ct_shapeless-209878285
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Rice Dough with name ct_shapeless2084134565
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Frame with name ct_shaped-1081213699
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spider Web Sapling with name ct_shapeless961923292
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gem Leggings with name ct_shapeless-1121869594
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Seeds with name ct_shapeless-1069944969
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Generic Seeds with name ct_shapeless-811930657
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Generic Seeds with name ct_shapeless-602026657
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:coal:1>
+[POSTINITIALIZATION][SERVER][INFO] 18 recipes removed for: <minecraft:coal:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <techreborn:dust:30>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ore:logWood>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <thermalfoundation:material:801>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <skyresources:baseitemcomponent>
+[POSTINITIALIZATION][SERVER][INFO] Adding seed entry <agricraft:agri_seed>.withTag({agri_analyzed: 0 as byte, agri_strength: 1 as byte, agri_gain: 1 as byte, agri_seed: "potato_plant", agri_growth: 1 as byte})
+[POSTINITIALIZATION][SERVER][INFO] Setting the stages for recipes based on their output stack, 35 stages
+[POSTINITIALIZATION][SERVER][INFO] Setting the stages for recipes based on regex, 5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Spikes with name ct_shaped1713499719
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Spikes with name ct_shaped1151123672
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Spikes with name ct_shaped868401598
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Spikes with name ct_shaped-1890215387
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Spikes with name ct_shaped659793728
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Crucible Inserter with name ct_shaped246799941
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Quick Dropper with name ct_shaped610268147
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Linking Tool with name ct_shaped-452269482
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Transfer Pipe with name ct_shaped1482648065
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Drum with name ct_shaped1078742999
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Drum with name ct_shaped-786758071
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Drum with name ct_shaped-1760716352
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ethereal Glass with name ct_shaped459884276
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Polished Stone with name ct_shapeless1525496988
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sandy Glass with name ct_shapeless-1329492408
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Calculator Assembly with name ct_shaped-911310387
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Calculator Screen with name ct_shaped1053057848
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Power Cube with name ct_shaped68616886
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Crank Handle with name ct_shaped2550969
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hand Cranked Generator with name ct_shaped450976017
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Matter Warper with name ct_shaped1664998481
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Matter Block with name ct_shaped416112321
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Matter Heat Component with name ct_shaped-1421628190
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Matter Alchemy Component with name ct_shaped2139939787
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Matter Block with name ct_shaped1524102971
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Matter Heat Component with name ct_shaped-1430229211
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Matter Alchemy Component with name ct_shaped179595082
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Creative Essence with name ct_shaped1929770713
+[AVAILABLE][SERVER][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechid"})]
+[AVAILABLE][SERVER][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechid"})
+[AVAILABLE][SERVER][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechidIgnem"})]
+[AVAILABLE][SERVER][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechidIgnem"})
+[AVAILABLE][SERVER][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <astralsorcery:blockmarble>
+[AVAILABLE][SERVER][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <astralsorcery:itemcraftingcomponent>
+[AVAILABLE][SERVER][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <astralsorcery:blockcollectorcrystal>.withTag({astralsorcery: {constellationName: "astralsorcery.constellation.discidia", crystalProperties: {collectiveCapability: 100, size: 400, purity: 100}, collectorType: 0}})
+[AVAILABLE][SERVER][INFO] Adding 1 Empowerer Recipe(s) for <astralsorcery:blockcustomore>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <flyringbaublemod:flyingring:*>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <randomthings:fertilizeddirt>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <appliedenergistics2:grindstone>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <appliedenergistics2:crank>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <extrautils2:teleporter:*>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <extrautils2:quarryproxy>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <extrautils2:quarry>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <techreborn:cable>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <xreliquary:altar>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <appliedenergistics2:material:40>
+[AVAILABLE][SERVER][INFO] Hiding item in JEI: <projecte:item.pe_time_watch>

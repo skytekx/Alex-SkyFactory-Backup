@@ -1,0 +1,4 @@
+2020-12-04 17:53:49.733805|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-12-04 17:56:47.995460|INFO    |VirtualServer |1  |client 'Alex'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2020-12-04 17:56:47.995850|INFO    |VirtualServer |1  |client 'Alex'(id:3) used privilege key 'cTkvl5FXoajKrUmYAu8A2bYqMs64QopGWpONsZl3' and was added to servergroup 'Server Admin'(id:6)
+2020-12-04 17:59:12.589568|INFO    |VirtualServerBase|1  |stopped

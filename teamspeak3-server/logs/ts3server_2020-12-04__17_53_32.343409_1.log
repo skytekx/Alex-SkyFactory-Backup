@@ -1,0 +1,6 @@
+2020-12-04 17:53:33.033494|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-12-04 17:53:33.033808|WARNING |VirtualServer |1  |--------------------------------------------------------
+2020-12-04 17:53:33.033821|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2020-12-04 17:53:33.033829|WARNING |VirtualServer |1  |token=cTkvl5FXoajKrUmYAu8A2bYqMs64QopGWpONsZl3
+2020-12-04 17:53:33.033835|WARNING |VirtualServer |1  |--------------------------------------------------------
+2020-12-04 17:53:41.220585|INFO    |VirtualServerBase|1  |stopped

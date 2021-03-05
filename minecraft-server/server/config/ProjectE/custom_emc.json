@@ -1,0 +1,208 @@
+{
+  "entries": [
+    {
+      "item": "tconstruct:edible|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:emerald|0",
+      "emc": 8192
+    },
+    {
+      "item": "mysticalagriculture:crafting|4",
+      "emc": 1000000
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 124
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 10024
+    },
+    {
+      "item": "mysticalagriculture:chunk|5",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:experience_essence|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:experience_bottle|0",
+      "emc": 1280
+    },
+    {
+      "item": "appliedenergistics2:material|11",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|12",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|13",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|19",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|15",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|17",
+      "emc": 12050
+    },
+    {
+      "item": "appliedenergistics2:material|16",
+      "emc": 12050
+    },
+    {
+      "item": "appliedenergistics2:material|20",
+      "emc": 1205
+    },
+    {
+      "item": "appliedenergistics2:material|18",
+      "emc": 12050
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 15000
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 15000
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 15000
+    },
+    {
+      "item": "appliedenergistics2:material|46",
+      "emc": 150
+    },
+    {
+      "item": "integrateddynamics:crystalized_menril_chunk|0",
+      "emc": 150
+    },
+    {
+      "item": "tp:growth_block|0",
+      "emc": 15050
+    },
+    {
+      "item": "tp:growth_upgrade|0",
+      "emc": 64646
+    },
+    {
+      "item": "tp:growth_upgrade_two|0",
+      "emc": 646464
+    },
+    {
+      "item": "nuclearcraft:uranium|8",
+      "emc": 500
+    },
+    {
+      "item": "nuclearcraft:uranium|6",
+      "emc": 60
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 500
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 1024
+    },
+    {
+      "item": "mekanism:dust|2",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|70",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|103",
+      "emc": 7248
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 7350
+    },
+    {
+      "item": "matteroverdrive:tritanium_ingot|0",
+      "emc": 4012
+    },
+    {
+      "item": "matteroverdrive:dilithium_crystal|0",
+      "emc": 4012
+    },
+    {
+      "item": "minecraft:ender_eye|0",
+      "emc": 512
+    },
+    {
+      "item": "matteroverdrive:isolinear_circuit|1",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 758
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence|0",
+      "emc": 150
+    },
+    {
+      "item": "mysticalagriculture:wither_skeleton_essence|0",
+      "emc": 1350
+    },
+    {
+      "item": "mysticalagriculture:skeleton_essence|0",
+      "emc": 25
+    },
+    {
+      "item": "mysticalagriculture:nether_essence|0",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:end_essence|0",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:emerald_essence|0",
+      "emc": 1024
+    },
+    {
+      "item": "mysticalagriculture:gold_essence|0",
+      "emc": 1024
+    },
+    {
+      "item": "mysticalagriculture:iron_essence|0",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagriculture:diamond_essence|0",
+      "emc": 1024
+    },
+    {
+      "item": "mysticalagriculture:blaze_essence|0",
+      "emc": 1235
+    },
+    {
+      "item": "mysticalagriculture:stone_essence|0",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:nature_essence|0",
+      "emc": 50
+    },
+    {
+      "item": "mysticalagriculture:dirt_essence|0",
+      "emc": 1
+    }
+  ]
+}

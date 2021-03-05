@@ -1,0 +1,24 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "ab31fcce-49a3-4753-924a-f521165b9d4c",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "af6718ae-82b8-4c41-a28e-a555707fa868",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "partysinglereward:1": 0,
+          "partysharelives:1": 0,
+          "name:8": "Wichskinder"
+        }
+      }
+    }
+  }
+}
